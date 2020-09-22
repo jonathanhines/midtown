@@ -1,0 +1,13 @@
+---
+---
+@import "minima";
+@import "mixins";
+@import "site";
+
+$color-purple: #05032D;
+$color-peach: #E5A37B;
+$color-green: #BAAE57;
+
+.site-header {
+    background-color: $color-purple;
+}
