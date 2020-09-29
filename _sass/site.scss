@@ -5,3 +5,20 @@
 .sr-only-focusable {
     @include sr-only-focusable();
 }
+
+.site-header {
+    background-color: $color-purple;
+}
+
+.site-title svg {
+    fill: $color-peach;
+    max-width: 300px;
+    padding-top: $large-spacing;
+    padding-bottom: $large-spacing;
+    .logo-divider {
+        fill-opacity: 0.49;
+    }
+    .logo-words {
+        fill: $color-white;
+    }
+}
