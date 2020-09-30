@@ -1,12 +1,22 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- include head.html -%}
 
-  {{ content }}
+  <body>
 
-</div>
+    {%- include header.html -%}
+
+    <main class="page-content home-page" aria-label="Content">
+      {%- include partials/masthead.html -%}
+      <div class="wrapper">
+        <h1 class="sr-only">{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
