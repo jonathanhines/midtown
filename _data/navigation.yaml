@@ -1,5 +1,7 @@
 
 - name: Home
   link: /
-- name: About
+- name: Services
+  link: /services/
+- name: About Us
   link: /about/
