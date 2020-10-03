@@ -1,10 +1,9 @@
 <footer class="site-footer">
   <div class="footer-links">
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
     <div class="footer-contact">
-      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">{%- include icons/facebook.svg -%}</a>{%- endif -%}
+      {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" title="LinkedIn">{%- include icons/linkedin.svg -%}</a>{%- endif -%}
+      {%- if site.email -%}<a title= "{{ site.email }}" href="mailto:{{ site.email }}">{%- include icons/mail.svg -%}</a>{%- endif -%}
     </div>
   </div>
   <div class="footer-copyright">Copyright &copy; {{ site.title | escape }} 2020</div>

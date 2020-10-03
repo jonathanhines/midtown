@@ -10,6 +10,7 @@ permalink: /
 <div class="text" markdown="1">
 
 ## About Midtown Counselling
+{: .align-center}
 
 As our name suggests, we’re a counselling service smack dab in the middle of Kitchener-Waterloo. We’re here to help you **Feel Better and Do Better**.
 
@@ -35,9 +36,10 @@ We provide:
 <div class="image">
     <img src="/assets/images/two-hands.jpg" alt="">
 </div>
-<div class="text align-center" markdown="1">
+<div class="text" markdown="1">
 
 ### Relational Focus
+{: .align-center}
 
 What really sets us apart is our emphasis on human relations. We firmly believe effective psychotherapy necessitates a solid therapeutic connection. We invest heavily in relationship building. For starters, we encourage people to be picky about their therapists – a good fit is a must-have for effective therapy. Secondly, we’re out and about in the community often, getting to know you, being available for you, and being accountable to you. Thirdly, we provide initial consults at no cost to give you and us the chance to talk through your situation and consider the options before making any assumptions about how we can help.
 
@@ -50,13 +52,14 @@ Strong relationships pay off! They help us listen better and they ensure your in
 <div class="image">
     <img src="/assets/images/session.jpg" alt="">
 </div>
-<div class="text align-center" markdown="1">
+<div class="text" markdown="1">
 
 ### Psychotherapy Expertise
+{: .align-center}
 
-Professional counselling improves mental wellness, heals emotional pain & removes barriers to success. Our therapists have solid credentials, comprehensive training and extensive experience providing evidenced-based treatment in hospitals and community centres (LINK TO ABOUT US).
+Professional counselling improves mental wellness, heals emotional pain & removes barriers to success. Our therapists have solid credentials, comprehensive training and extensive experience providing evidenced-based treatment in hospitals and community centres. [Learn more here](/about/).
 
-Your treatment plan will be specifically crafted to your situation using techniques backed by medical science. Therapies include: Cognitive Behavioural Therapy (CBT), Mindfulness Interventions, Dialectical Behaviour Therapy (CBT), MultiSystemic Therapy (MST), and Attachment and Family Systems Therapies among others.  Furthermore, our Trauma Informed and Recovery Oriented approach acknowledges pain and injury, celebrates each step, and maximizes your resiliency.session.
+Your treatment plan will be specifically crafted to your situation using techniques backed by medical science. Therapies include: Cognitive Behavioural Therapy (CBT), Mindfulness Interventions, Dialectical Behaviour Therapy (CBT), MultiSystemic Therapy (MST), and Attachment and Family Systems Therapies among others.  Furthermore, our Trauma Informed and Recovery Oriented approach acknowledges pain and injury, celebrates each step, and maximizes your resiliency.
 
 </div>
 </div>
@@ -65,9 +68,10 @@ Your treatment plan will be specifically crafted to your situation using techniq
 <div class="image">
     <img src="/assets/images/confidence.jpg" alt="">
 </div>
-<div class="text align-center" markdown="1">
+<div class="text" markdown="1">
 
 ### Your Success is Our Number One Goal
+{: .align-center}
 
 How you define success matters to us. We promise to listen carefully, respect your values, and keep your goals in focus. If you’re stuck, we’ll help you get unstuck. If you want to move forward, we’re here to help you do that. If you’re not sure what you need but know you need something, we’re here for that too.
 
