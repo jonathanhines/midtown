@@ -24,9 +24,9 @@ Organizations and businesses rely on us to support their communities. We provide
 
 We provide:
 
-- Individual & Family Counselling (link to 2a)
-- Adult & Young Adult Coaching (link to 2a)
-- Wellness Programming for Businesses/Organizations
+- [Individual & Family Counselling](/services/#individuals)
+- [Adult & Young Adult Coaching](/services/#individuals)
+- [Wellness Programming for Businesses/Organizations](/services/#business)
 
 </div>
 </div>
@@ -77,7 +77,7 @@ Your treatment plan will be specifically crafted to your situation using techniq
 
 How you define success matters to us. We promise to listen carefully, respect your values, and keep your goals in focus. If you’re stuck, we’ll help you get unstuck. If you want to move forward, we’re here to help you do that. If you’re not sure what you need but know you need something, we’re here for that too.
 
-A brighter future is waiting for you. We’ll help you get there. Now (you heard right, there’s no wait list. All you have to do is call. INSERT LINK TO CONTACT US)
+A brighter future is waiting for you. We’ll help you get there. Now (you heard right, there’s no wait list. All you have to do is [call](/contact/).
 
 </div>
 </div>

@@ -6,20 +6,20 @@ permalink: /services/
 
 <div class="image-jump-links">
     <div class="jump-link">
-        <a href="#for-individualsfamilies">
+        <a href="#individuals">
             <img src="/assets/images/session2.jpg" alt="">
             <div class="jump-link-text">Individuals/Families</div>
         </a>
     </div>
     <div class="jump-link">
-        <a href="#for-businessesorganizations">
+        <a href="#business">
             <img src="/assets/images/family-window.jpg" alt="">
             <div class="jump-link-text">Businesses/Organizations</div>
         </a>
     </div>
 </div>
 
-## For Individuals/Families
+## For Individuals/Families {#individuals}
 {: .section-start-spaced}
 
 We’re here to support you with your goals. First, we listen, then we treat. 
@@ -122,12 +122,12 @@ Ask your employer, church or organizational lead. We may already have a partners
 #### Financial Subsidies
 {: .uppercase}
 
-Is your financial situation such that accessing counselling would do more harm than good? Our vision is an inclusive country where free healthcare is actually free. Sadly, that’s not our reality. Let’s talk. (If our subsidy of 15% is insufficient, we recommend calling Here 24/7 for access to publicly funded services.) LINK to HERE247.ca
+Is your financial situation such that accessing counselling would do more harm than good? Our vision is an inclusive country where free healthcare is actually free. Sadly, that’s not our reality. Let’s talk. (If our subsidy of 15% is insufficient, we recommend calling [Here 24/7](https://here247.ca/) for access to publicly funded services.)
 
 </div>
 </div>
 
-## For Businesses/Organizations
+## For Businesses/Organizations {#business}
 {: .section-start-spaced}
 
 We’re here to support your business/organization with its goals. First, we listen, then we intervene. Each group’s needs are unique. So is our programming. Perhaps you’re looking for mental health awareness and coaching, perhaps one of your members needs individual support and help navigating community services, perhaps your team suffered a crisis, loss or traumatic experience or perhaps you’re not sure what they need but you know they need support. Whatever the need, let’s chat.

@@ -366,6 +366,9 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom:100%;
     position:relative;
     height:0;
+    @include media-query($on-laptop) {
+        padding-bottom: 50%;
+    }
 }
 .map-responsive iframe{
     left:0;
@@ -378,4 +381,36 @@ h1, h2, h3, h4, h5, h6 {
 .contact-phone {
     font-size: 1.2em;
     font-weight: 700;
+}
+
+.contact-doxy { 
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge {
+        margin: $extra-large-spacing auto $large-spacing;
+    }
+    div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button:hover,
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button:hover {
+        background: $color-purple;
+    }
+    div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button,
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button {
+        background: $color-purple;
+    }
+
+    div.doxyme-badge div.doxyme-badge-start-a-call,
+    div.doxyme-badge a.doxyme-badge-start-a-call,
+    div.doxyme-badge#doxyme-badge div.doxyme-badge-start-a-call,
+    div.doxyme-badge#doxyme-badge a.doxyme-badge-start-a-call {
+        color: $color-purple !important;
+    }
+
+    div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call,
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call {
+        border-bottom: 1px solid $color-purple
+    }
+
+    div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call:hover,
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call:hover {
+        color: $color-purple !important;
+        border-bottom: 1px solid $color-purple;
+    }
 }
