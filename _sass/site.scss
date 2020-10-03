@@ -384,8 +384,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-doxy { 
-    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge {
-        margin: $extra-large-spacing auto $large-spacing;
+    div.doxyme-badge.doxyme-badge-horizontal,
+    div.doxyme-badge.doxyme-badge-noimage,
+    div.doxyme-badge.doxyme-badge-noimage#doxyme-badge {
+        margin: $large-spacing auto $large-spacing;
     }
     div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button:hover,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button:hover {
@@ -405,12 +407,31 @@ h1, h2, h3, h4, h5, h6 {
 
     div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call {
-        border-bottom: 1px solid $color-purple
+        border-bottom: 1px solid $color-purple;
     }
 
     div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call:hover,
-    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call:hover {
+    div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call:hover,
+    div.doxyme-badge.doxyme-badge-noimage a.doxyme-badge-start-a-call:hover,
+    div.doxyme-badge.doxyme-badge-noimage#doxyme-badge a.doxyme-badge-start-a-call:hover,
+    div.doxyme-badge.doxyme-badge-noimage a.doxyme-badge-start-a-call,
+    div.doxyme-badge.doxyme-badge-noimage#doxyme-badge a.doxyme-badge-start-a-call {
         color: $color-purple !important;
         border-bottom: 1px solid $color-purple;
+    }
+
+    .doxyme-badge-horizontal {
+        display: block;
+    }
+    .doxyme-badge-noimage {
+        display: none;
+    }
+    @include media-query($on-palm) {
+        .doxyme-badge-horizontal {
+            display: none;
+        }
+        .doxyme-badge-noimage {
+            display: block;
+        }
     }
 }

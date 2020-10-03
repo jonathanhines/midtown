@@ -52,5 +52,22 @@ Call or text [(226) 313-3335](tel:2263133335)
             </div>
         </div>
     </div>
-</div>
 
+    <div class="doxyme-badge doxyme-badge-noimage">
+        <div><a class="doxyme-badge-start-a-call" href="https://doxy.me/midtowncounselling" target="_blank">Start a
+                telemedicine call with</a></div>
+
+        <div class="doxyme-badge-doctor-name">Shelly Pavlic<span class="doxyme-badge-indicator"
+                data-subscribe-key="sub-c-4c711c18-7e53-11e5-8d3c-0619f8945a4f"
+                data-uuid="c9bd9680-68c6-11ea-9f23-f3478b40e3e8:web" data-channel="room--196670"
+                data-api-url="https://api.doxy.me"></span></div>
+
+        <div>
+            <div class="doxyme-badge-powered-by"><a href="https://doxy.me" target="_blank">Telemedicine</a> by</div>
+
+            <div class="doxyme-badge-logo-link"><a href="https://doxy.me" target="_blank">Doxy.me</a></div>
+
+        </div>
+
+    </div>
+</div>
