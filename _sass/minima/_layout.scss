@@ -103,8 +103,8 @@
 
     .page-link {
       display: block;
-      padding: 5px 0;
-      border-top: solid 1px $color-peach;
+      padding: $default-spacing 0;
+      border-top: solid 1px rgba($color-peach, 0.5);
       &:not(:last-child) {
         margin-right: 0;
       }
