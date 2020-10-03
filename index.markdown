@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: masthead_page
 title: Home
 permalink: /
+background: /assets/images/masthead.jpg
+masthead_text: Friendly Professional Confidential <br>Psychotherapy in the heart of <br>Kitchener-Waterloo
 ---
 <div class="image-words image-left">
 <div class="image large">

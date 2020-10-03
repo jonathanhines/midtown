@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
   {%- include head.html -%}
-
   <body>
-
-    {%- include header.html -%}
-
+    {% include header.html %}
     <main class="page-content home-page" aria-label="Content">
-      {%- include partials/masthead.html -%}
+      {% assign background = page.background %}
+      {% assign masthead_text = page.masthead_text %}
+      {% include partials/masthead.html %}
       <div class="wrapper">
         <h1 class="sr-only">{{ page.title }}</h1>
         {{ content }}

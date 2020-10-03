@@ -37,11 +37,11 @@
     height: 50vh;
     min-height: 16rem;
     background-size: cover;
-    background-image: url("/assets/images/masthead.jpg");
     background-position: 50% 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: $large-spacing;
     .head-text {
         font-size: 1.8rem;
         background-color: rgba(0,0,0,0.5);

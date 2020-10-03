@@ -5,5 +5,7 @@
   link: /services/
 - name: About Us
   link: /about/
+- name: FAQ
+  link: /faq/
 - name: Contact Us
   link: /contact/
