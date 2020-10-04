@@ -7,7 +7,7 @@
 }
 
 .site-header {
-    background-color: $color-purple;
+    background-color: $brand-dark;
     .page-link {
         text-transform: uppercase;
     }
@@ -18,7 +18,7 @@
 }
 
 .site-title svg {
-    fill: $color-peach;
+    fill: $brand-light;
     max-width: 100%;
     height: 60px;
     .logo-divider {
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6 {
             width: 33%
         }
     }
-    
+   
     // @include media-query($on-palm) {
     //     align-items: center;
     //     flex-direction: column;
@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-.contact-doxy { 
+.contact-doxy {
     div.doxyme-badge.doxyme-badge-horizontal,
     div.doxyme-badge.doxyme-badge-noimage,
     div.doxyme-badge.doxyme-badge-noimage#doxyme-badge {
@@ -391,33 +391,36 @@ h1, h2, h3, h4, h5, h6 {
     }
     div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button:hover,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button:hover {
-        background: $color-purple;
+        background: $text-color;
     }
     div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button {
-        background: $color-purple;
+        background: $brand-color;
     }
 
     div.doxyme-badge div.doxyme-badge-start-a-call,
     div.doxyme-badge a.doxyme-badge-start-a-call,
     div.doxyme-badge#doxyme-badge div.doxyme-badge-start-a-call,
     div.doxyme-badge#doxyme-badge a.doxyme-badge-start-a-call {
-        color: $color-purple !important;
+        color: $brand-color !important;
     }
 
     div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call {
-        border-bottom: 1px solid $color-purple;
+        border-bottom: 1px solid transparent;
     }
 
     div.doxyme-badge.doxyme-badge-horizontal div.doxyme-badge-content a.doxyme-badge-start-a-call:hover,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge div.doxyme-badge-content a.doxyme-badge-start-a-call:hover,
     div.doxyme-badge.doxyme-badge-noimage a.doxyme-badge-start-a-call:hover,
-    div.doxyme-badge.doxyme-badge-noimage#doxyme-badge a.doxyme-badge-start-a-call:hover,
+    div.doxyme-badge.doxyme-badge-noimage#doxyme-badge a.doxyme-badge-start-a-call:hover {
+        color: $text-color !important;
+        border-bottom: 1px solid $text-color;
+    }
     div.doxyme-badge.doxyme-badge-noimage a.doxyme-badge-start-a-call,
     div.doxyme-badge.doxyme-badge-noimage#doxyme-badge a.doxyme-badge-start-a-call {
-        color: $color-purple !important;
-        border-bottom: 1px solid $color-purple;
+        color: $brand-color !important;
+        border-bottom: 1px solid transparent;
     }
 
     .doxyme-badge-horizontal {
@@ -434,4 +437,17 @@ h1, h2, h3, h4, h5, h6 {
             display: block;
         }
     }
+}
+
+.event-notice {
+    border-top: solid 1px $divider-color;
+    padding-top: $large-spacing;
+    margin-bottom: $large-spacing;
+}
+
+.post-content .event-date {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    font-weight: 400;
+    font-style: italic;
 }

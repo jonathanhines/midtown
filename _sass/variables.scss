@@ -1,15 +1,21 @@
-$color-purple: #05032D;
+$color-dark-purple: #05032D;
 $color-peach: #E5A37B;
 $color-green: #BAAE57;
 $color-white: #FFFFFF;
 $color-dark: #000000;
+$color-light-grey: #CCCCCC;
+
 $text-color: #111111;
+$brand-light: $color-peach;
+$brand-dark: $color-dark-purple;
+$brand-color: lighten($brand-dark, 25%);
+$divider-color: rgba($brand-dark, 0.3);
 
 $nav-color: $color-white;
-$header-background-color: $color-purple;
+$header-background-color: $brand-dark;
 $footer-color: $color-dark;
-$footer-background-color: $color-peach;
-$footer-copyright-notice-background-color: $color-purple;
+$footer-background-color: $brand-light;
+$footer-copyright-notice-background-color: $brand-dark;
 $footer-copyright-notice-color: #AAAAAA;
 
 $default-spacing: 15px;
@@ -21,4 +27,6 @@ $footer-height: 100px;
 
 $base-font-family: 'Lato', sans-serif;
 $content-width: 1200px;
-$width-hamburger: 740px;
+$on-laptop: 800px;
+
+$width-hamburger: $on-laptop;

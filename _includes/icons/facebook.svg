@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<svg class="hide-until-rendered-inline" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 <path class="filled" d="M59.3,0H4.7C2.1,0,0,2.1,0,4.6v54.8C0,61.9,2.1,64,4.7,64H27V41.2h-8.1V32H27v-7c0-8,4.8-12.5,12.1-12.5
 	c3.5,0,7.2,0.6,7.2,0.6V21h-4c-4,0-5.2,2.5-5.2,5v6h8.9l-1.4,9.2H37V64h22.2c2.6,0,4.7-2.1,4.7-4.6V4.6C64,2.1,61.9,0,59.3,0z"/>
 </svg>

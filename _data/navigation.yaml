@@ -1,10 +1,12 @@
 
-- name: Home
-  link: /
+#- name: Home
+#  link: /
 - name: Services
   link: /services/
 - name: About Us
   link: /about/
+- name: News
+  link: /news/
 - name: FAQ
   link: /faq/
 - name: Contact Us

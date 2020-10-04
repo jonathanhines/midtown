@@ -22,7 +22,7 @@ permalink: /services/
 ## For Individuals/Families {#individuals}
 {: .section-start-spaced}
 
-We’re here to support you with your goals. First, we listen, then we treat. 
+We’re here to support you with your goals. First, we listen, then we treat.
 Our areas of expertise include:
 
 <div class="service-item">
@@ -44,9 +44,9 @@ Depression, Anxiety and Stress are powerful emotions. If they’re causing you d
 </div>
 <div class="service-item-description" markdown="1">
 
-### Family, Parenting & Social Relationships 
+### Family, Parenting & Social Relationships
 
-Relationships are really important to mental wellness. When they’re lacking connectivity, balance and conflict resolution, they lead to distress, resentment and sadness. Psychotherapists find mutual goals, pinpoint problematic patterns and improve communication, love and respect. 
+Relationships are really important to mental wellness. When they’re lacking connectivity, balance and conflict resolution, they lead to distress, resentment and sadness. Psychotherapists find mutual goals, pinpoint problematic patterns and improve communication, love and respect.
 
 </div>
 </div>
@@ -57,9 +57,9 @@ Relationships are really important to mental wellness. When they’re lacking co
 </div>
 <div class="service-item-description" markdown="1">
 
-### Personal Wellness & Efficacy 
+### Personal Wellness & Efficacy
 
-If you’re keen to boost your mental health and personal effectiveness, CONGRATULATIONS, you’re embarking on a significant journey. With professional coaching, you’ll set meaningful goals and create a path to increased confidence and effectiveness. Your future is up to You. 
+If you’re keen to boost your mental health and personal effectiveness, CONGRATULATIONS, you’re embarking on a significant journey. With professional coaching, you’ll set meaningful goals and create a path to increased confidence and effectiveness. Your future is up to You.
 
 </div>
 </div>
@@ -70,7 +70,7 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 <div class="service-listing" markdown="1">
 
 #### Initial Phone Consultation
-Phone consultation with Shelly Pavlic to confirm suitable client-therapist match, clarify primary counselling need, and review relevant service options and recommendations. This is a no obligation, confidential conversation. 
+Phone consultation with Shelly Pavlic to confirm suitable client-therapist match, clarify primary counselling need, and review relevant service options and recommendations. This is a no obligation, confidential conversation.
 
 No Charge.
 {: .price}
