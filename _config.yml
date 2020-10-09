@@ -29,10 +29,15 @@ url: "https://midtowncounselling.ca" # the base hostname & protocol for your sit
 linkedin_username: shellypavlic
 facebook_username: midtowncounselling.ca
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  date_format: "%B %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
