@@ -4,6 +4,8 @@ title: Home
 permalink: /
 background: /assets/images/masthead.jpg
 masthead_text: Friendly Professional Confidential <br>Psychotherapy in the heart of <br>Kitchener-Waterloo
+masthead_cta_link: /contact
+masthead_cta_text: Connect Now
 ---
 <div class="image-words image-left">
 <div class="image large">

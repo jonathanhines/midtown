@@ -1,5 +1,10 @@
 <div class="masthead" style="background-image: url('{{ background }}');">
     <div class="head-text">
         {{ masthead_text }}
+        {%- if masthead_cta_link && masthead_cta_text -%}
+        <div class="head-button">
+            <a href="{{ masthead_cta_link | relative_url }}">{{ masthead_cta_text }}</a>
+        </div>
+        {%- endif -%}
     </div>
 </div>
