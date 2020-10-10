@@ -31,4 +31,8 @@ Call or text [(226) 313-3335](tel:2263133335)
 </div>
 </div>
 
+### Available Times This Week
+
+This is a list of the available times this week. To book an appointment, [send us an email](mailto:info@midtowncounselling.ca), [call](tel:2263133335) or [text](sms:2263133335).
+
 {% include partials/available.html %}

@@ -472,3 +472,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-style: italic;
 }
+
+.post-list {
+    > li {
+        border-top: solid 1px $divider-color;
+        padding-top: $spacing-unit;
+    }
+}
