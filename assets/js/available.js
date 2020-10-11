@@ -4,11 +4,35 @@ var displayColumns = [
     {key: "time", label: "Time"},
 ];
 var tableID = "available-table";
+var errorNoticeID = "available-error-notice";
+var dayOfWeekMap = {
+    "Sunday": 0,
+    "Monday": 1,
+    "Tuesday": 2,
+    "Wednesday": 3,
+    "Thursday": 4,
+    "Friday": 5,
+    "Saturday": 6,
+}
+var today = new Date();
+// today.setDate(today.getDate() + 4);
+var thisDayOfWeek = today.getDay();
+var displayDateOptions = { weekday: 'long', month: 'short', day: 'numeric' };
+var displayDateLocale = "en-CA"
 
-$(function() {
-    $.getJSON( source, function( data ) {
-        buildTable(data.feed.entry);
-    });
+window.addEventListener('load', function () {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", source);
+    xhr.onload = () => {
+        if (xhr.status === 200) {
+            var data = JSON.parse(xhr.responseText);
+            buildTable(data.feed.entry);
+        } else {
+            let errorNoticeContainer = document.getElementById(errorNoticeID);
+            errorNoticeContainer.textContent = "Error: Could not get available times. Try again later or contact Midtown Counselling directly.";
+        }
+    };
+    xhr.send();
 });
 
 function buildTable(entries) {
@@ -76,17 +100,50 @@ function generateTableHead(table, data) {
 }
 
 function generateTable(table, data) {
+
     data.forEach( (item, i) => {
         if (!item.available) {
             return;
         }
-        let row = table.insertRow();
-        for (let column of displayColumns) {
-            let cell = row.insertCell();
-            cell.className = "column-" + column.key;
-            let value = item[column.key]
-            let text = document.createTextNode(value);
-            cell.appendChild(text);
+        var dataDayOfWeekInt = dayOfWeekMap[item.day];
+        if (dataDayOfWeekInt <= thisDayOfWeek || typeof(dataDayOfWeekInt) === "undefined" ) {
+            return;
         }
+        addTableRow(table, item, dataDayOfWeekInt);
     });
+    data.forEach( (item, i) => {
+        if (!item.available) {
+            return;
+        }
+        var dataDayOfWeekInt = dayOfWeekMap[item.day];
+        if (dataDayOfWeekInt > thisDayOfWeek || typeof(dataDayOfWeekInt) === "undefined") {
+            return;
+        }
+        addTableRow(table, item, dataDayOfWeekInt);
+    });
+
+}
+
+function addTableRow(table, item, dataDayOfWeekInt) {
+    // Item will always be at least tomorrow so we can pick the date based on the day of week
+
+    var daysInFuture = dataDayOfWeekInt - thisDayOfWeek;
+    if (daysInFuture <= 0) {
+        daysInFuture += 7;
+    }
+    var date = new Date();
+    date.setDate(today.getDate() + daysInFuture);
+
+    let row = table.insertRow();
+    for (let column of displayColumns) {
+        let cell = row.insertCell();
+        cell.className = "column-" + column.key;
+        let value = item[column.key]
+        switch(column.key) {
+            case "day":
+                value = date.toLocaleDateString(displayDateLocale, displayDateOptions);
+        }
+        let text = document.createTextNode(value);
+        cell.appendChild(text);
+    }
 }
