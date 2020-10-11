@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
     div.doxyme-badge.doxyme-badge-horizontal,
     div.doxyme-badge.doxyme-badge-noimage,
     div.doxyme-badge.doxyme-badge-noimage#doxyme-badge {
-        margin: $large-spacing auto $large-spacing;
+        margin: $large-spacing 0 $large-spacing;
     }
     div.doxyme-badge.doxyme-badge-horizontal a.doxyme-badge-start-button:hover,
     div.doxyme-badge.doxyme-badge-horizontal#doxyme-badge a.doxyme-badge-start-button:hover {
@@ -450,7 +450,7 @@ h1, h2, h3, h4, h5, h6 {
     .doxyme-badge-noimage {
         display: none;
     }
-    @include media-query($on-palm) {
+    @include media-query(510px) {
         .doxyme-badge-horizontal {
             display: none;
         }
