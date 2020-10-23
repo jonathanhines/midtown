@@ -29,6 +29,23 @@
     }
 }
 
+body.with-masthead {
+    .site-header {
+        background-color: transparent;
+    }
+
+    .site-title svg {
+        fill: $brand-light;
+        .logo-words {
+            fill: $color-white;
+        }
+    }
+
+    .page-content {
+        margin-top: -1 * $header-height;
+    }
+}
+
 .page-content.home-page {
     padding-top: 0;
 }
@@ -46,6 +63,7 @@
         font-size: 1.8rem;
         background-color: rgba(0,0,0,0.5);
         color: $color-white;
+        font-weight: 300;
         text-align: center;
         padding: $large-spacing;
         //@include media-query($on-palm) {
