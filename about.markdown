@@ -4,6 +4,8 @@ title: About Us
 permalink: /about/
 ---
 
+<img src="/assets/images/session.jpg" alt="" class="image-float float-left">
+
 Midtown combines the science of psychosocial wellness with the healing capacity of relationships.
 
 As for science, the field of wellness has come a long way in understanding how the brain functions, what motivates us as humans, and how to change unhelpful patterns that rob us of our capacity to enjoy life, act with confidence, and meaningfully engage with others.  Midtown’s clinicians are highly trained in evidenced-based treatment modalities that are backed by science, recommended by physicians and preferred by major treatment centres and clients alike.
@@ -14,7 +16,7 @@ Last, but certainly not least, Midtown’s relational focus includes a mission t
 
 ## More About Shelly
 
-<img src="/assets/images/shelly-1.jpg" alt="" class="image-float-left">
+<img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-left">
 
 Hello and welcome! My name is Shelly and I’m a psychotherapist and Registered Social Worker with the College of Social Workers. I’m also a native Kitchener-ite and live with my partner and son in the midtown area.
 

@@ -31,7 +31,7 @@ Our areas of expertise include:
 </div>
 <div class="service-item-description" markdown="1">
 
-### Depression, Anxiety & Stress
+### Depression, Anxiety & Stress {#stress}
 
 Depression, Anxiety and Stress are powerful emotions. If they’re causing you discomfort, impeding joy and limiting personal and professional effectiveness, it’s time to act.
 
@@ -44,7 +44,7 @@ Depression, Anxiety and Stress are powerful emotions. If they’re causing you d
 </div>
 <div class="service-item-description" markdown="1">
 
-### Family, Parenting & Social Relationships
+### Family, Parenting & Social Relationships {#relationships}
 
 Relationships are really important to mental wellness. When they’re lacking connectivity, balance and conflict resolution, they lead to distress, resentment and sadness. Psychotherapists find mutual goals, pinpoint problematic patterns and improve communication, love and respect.
 
@@ -57,7 +57,7 @@ Relationships are really important to mental wellness. When they’re lacking co
 </div>
 <div class="service-item-description" markdown="1">
 
-### Personal Wellness & Efficacy
+### Personal Wellness & Efficacy {#wellness}
 
 If you’re keen to boost your mental health and personal effectiveness, CONGRATULATIONS, you’re embarking on a significant journey. With professional coaching, you’ll set meaningful goals and create a path to increased confidence and effectiveness. Your future is up to You.
 

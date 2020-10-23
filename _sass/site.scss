@@ -95,7 +95,66 @@ body.with-masthead {
             }
         }
     }
+}
 
+$feature-circle-diameter: 200px;
+$feature-circle-font-size: 1.7em;
+$feature-circle-padding: 40px;
+$feature-circle-background-color: $brand-dark;
+$feature-circle-color: $color-white;
+ul.feature-circles {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: $large-spacing;
+    li {
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: $feature-circle-diameter;
+        text-align: center;
+
+        a {
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: $feature-circle-diameter;
+            width: $feature-circle-diameter;
+            color: $feature-circle-color;
+            background: $feature-circle-background-color;
+            border-radius: 100%;
+            margin: 0 auto;
+            font-size: $feature-circle-font-size;
+            padding: $feature-circle-padding;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+    @include media-query($on-laptop) {
+        display: block;
+        margin-bottom: 0;
+        li {
+            margin: 0 auto $large-spacing;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.content-divider {
+    width: 50%;
+    margin: 70px auto;
+    color: $divider-color;
+}
+
+.blurb {
+    font-size: 1.3em;
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 .image-words {
@@ -192,16 +251,27 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: $extra-large-spacing;
 }
 
-.image-float-left {
+.image-float {
     max-width: 400px;
     width: 50%;
-    float: left;
-    margin-right: $large-spacing;
+    &.float-left {
+        float: left;
+        margin-right: $large-spacing;
+    }
+    &.float-right {
+        float: right;
+        margin-left: $large-spacing;
+    }
     margin-bottom: $default-spacing;
     @include media-query($on-palm) {
+        &.float-left {
+            margin-right: 0;
+        }
+        &.float-right {
+            margin-left: 0;
+        }
         float: none;
         width: 100%;
-        margin-right: 0;
         max-width: 300px;
     }
 }
