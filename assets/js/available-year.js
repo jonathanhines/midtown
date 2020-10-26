@@ -1,5 +1,5 @@
 
-var source = "https://spreadsheets.google.com/feeds/cells/1TXBlQVzJVVApWdJV-PvCMvLrg6OWW5LDZBpD76u7PbU/1/public/full?alt=json";
+var source = "https://spreadsheets.google.com/feeds/cells/1TXBlQVzJVVApWdJV-PvCMvLrg6OWW5LDZBpD76u7PbU/2/public/full?alt=json";
 
 var displayColumns = [
     {key: "date", label: "Day"},
@@ -106,7 +106,11 @@ function loadTable(entries) {
             let value = cell["$t"];
             switch(key) {
                 case "available":
-                    value = parseInt(value) === 1;
+                    if(value === "#N/A") {
+                        value = false;
+                    } else {
+                        value = parseInt(value) === 1;
+                    }
                     break;
 
                 case "date":
