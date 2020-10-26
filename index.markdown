@@ -20,7 +20,6 @@ masthead_cta_text: Contact Us
 Living with a dark, stormy cloud over your head is NO way to live. If your cloud is taking away from your personal life or career, you may feel burdened, alone or misunderstood. It doesn't have to be that way. Psychotherapy techniques like Cognitive Behavioural Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression & stress, restore confidence, develop effective relationships, and unlock personal potential. The solutions to your problems might be closer than you think.
 </div>
 
-<!--
 <div class="image-words image-left">
 <div class="image large">
     <img src="/assets/images/hands-couch.jpg" alt="">
@@ -97,4 +96,3 @@ A brighter future is waiting for you. We’ll help you get there. Now (you heard
 
 </div>
 </div>
--->

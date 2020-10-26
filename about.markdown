@@ -4,13 +4,13 @@ title: About Us
 permalink: /about/
 ---
 
-<img src="/assets/images/session.jpg" alt="" class="image-float float-left">
+<img src="/assets/images/hands-couch.jpg" alt="" class="image-float float-right">
 
 Midtown combines the science of psychosocial wellness with the healing capacity of relationships.
 
-As for science, the field of wellness has come a long way in understanding how the brain functions, what motivates us as humans, and how to change unhelpful patterns that rob us of our capacity to enjoy life, act with confidence, and meaningfully engage with others.  Midtown’s clinicians are highly trained in evidenced-based treatment modalities that are backed by science, recommended by physicians and preferred by major treatment centres and clients alike.
+As for **science**, the field of wellness has come a long way in understanding how the brain functions, what motivates us as humans, and how to change unhelpful patterns that rob us of our capacity to enjoy life, act with confidence, and meaningfully engage with others.  Midtown’s clinicians are highly trained in evidenced-based treatment modalities that are backed by science, recommended by physicians and preferred by major treatment centres and clients alike.
 
-As for relationships, all psychotherapy interventions rely heavily on a good client-therapist relationship. This is of utmost importance at Midtown. In addition to the specialized training above, Midtown’s clinicians excel at tuning into their clients’ strengths, values and needs so that clients can be understood, inspired and empowered to pursue the changes they desire. Depending on your needs and circumstances, Midtown may also offer help improving your connection with other key people in your life, be they your children, parents, neighbours, colleagues or boss.
+As for **relationships**, all psychotherapy interventions rely heavily on a good client-therapist relationship. This is of utmost importance at Midtown. In addition to the specialized training above, Midtown’s clinicians excel at tuning into their clients’ strengths, values and needs so that clients can be understood, inspired and empowered to pursue the changes they desire. Depending on your needs and circumstances, Midtown may also offer help improving your connection with other key people in your life, be they your children, parents, neighbours, colleagues or boss.
 
 Last, but certainly not least, Midtown’s relational focus includes a mission to strengthening communities. Through partnerships with local businesses, community services, and places of worship, Midtown contributes to its neighbours’ capacity to attend to psychological health at both individual and communal levels.
 
