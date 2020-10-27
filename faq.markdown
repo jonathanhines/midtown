@@ -4,6 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq/
 background: /assets/images/masthead-card.jpg
 masthead_text: Frequently Asked Questions
+class: faq
 ---
 
 <img src="/assets/images/masthead-card.jpg" alt="" class="image-float float-right hide-mobile">
