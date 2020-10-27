@@ -6,6 +6,9 @@ var displayColumns = [
     {key: "time", label: "Time"},
     {key: "book", label: "Book Via SMS"},
 ];
+var filtersID = "table-filters";
+var timeFiltersID = "time-filter";
+var dateFiltersID = "date-filter";
 var tableID = "available-table";
 var errorNoticeID = "available-error-notice";
 var today = new Date();
@@ -19,22 +22,30 @@ var displayDateLocale = "en-CA"
 var bookLinkText = "SMS";
 var bookLinkSMSBodyPrefix = "I'm interested in booking an appointment: ";
 
+var filterDate = "";
+var filterTime = "";
+
+var items = [];
+var filterDates = [];
+var filterTimes = [];
+
 var canCache = storageAvailable('localStorage');
 var cacheTimeMS = 1000 * 60 * 5; // 5 minutes in MS
 
 window.addEventListener('load', function () {
     if(canCache) {
         // Get the cached available appointments
-        var storeUntil = localStorage.getItem('storeUntil');
+        var itemsRetrieved = localStorage.getItem('itemsRetrieved');
 
-        if(storeUntil) {
-            storeUntilDate = new Date(parseInt(storeUntil));
+        if(itemsRetrieved) {
+            storeUntilDate = new Date(parseInt(itemsRetrieved) + cacheTimeMS);
 
             if (storeUntilDate > today) {
                 rawItems = localStorage.getItem('appointmentItems');
                 if(rawItems) {
                     items = JSON.parse(rawItems);
-                    renderTable(items);
+                    buildFilters();
+                    renderTable();
                     return;
                 }
             } else {
@@ -60,7 +71,7 @@ window.addEventListener('load', function () {
 function loadTable(entries) {
     // Headings is a map of column headings
     const headings = [];
-    const items = [];
+    items = [];
     let pRow = -1;
     let item = {};
 
@@ -130,19 +141,82 @@ function loadTable(entries) {
     if(item && itemInRange) {
         items.push(item);
     }
-    renderTable(items);
+    buildFilters();
+    renderTable();
 
     if(canCache) {
         // Get the cached available appointments
-        localStorage.setItem('storeUntil', Date.now() + (cacheTimeMS) + "");
+        localStorage.setItem('itemsRetrieved', Date.now() + "");
         localStorage.setItem('appointmentItems', JSON.stringify(items));
     }
 }
 
-function renderTable(items) {
+function buildFilters() {
+    // Get a unique list of filters
+    filterTimes = [];
+    filterDates = [];
+    items.forEach( (item, i) => {
+        if(!item["available"]) {
+            return;
+        }
+        if(filterTimes.indexOf(item["time"]) === -1) {
+            filterTimes.push(item["time"]);
+        }
+        if(filterDates.indexOf(item["date"]) === -1) {
+            filterDates.push(item["date"]);
+        }
+    });
+    let filters = document.getElementById(filtersID);
+    addFilterSelect(filters, dateFiltersID, "Date", filterDates);
+    addFilterSelect(filters, timeFiltersID, "Time", filterTimes);
+}
+
+function addFilterSelect(filters, id, labelText, filterOptions) {
+    let label = document.createElement("label");
+    filters.appendChild(label);
+    let labelTextE = document.createTextNode(labelText + ": ");
+    label.appendChild(labelTextE);
+    let select = document.createElement("select");
+    select.id = id;
+    select.className = "custom-select";
+    select.onchange = () => {
+        filterItems();
+    };
+    label.appendChild(select);
+    const allOption = document.createElement("option");
+    allOption.value = -1;
+    allOption.text = "All";
+    select.appendChild(allOption);
+    filterOptions.forEach((item,i) => {
+        let option = document.createElement("option");
+        option.value = i;
+        option.text = item;
+        select.appendChild(option);
+    });
+}
+
+function filterItems() {
+    let timeFilterValue = parseInt(document.getElementById(timeFiltersID).value);
+    if(timeFilterValue >= 0) {
+        filterTime = filterTimes[timeFilterValue];
+    } else {
+        filterTime = "";
+    }
+
+    let dateFilterValue = parseInt(document.getElementById(dateFiltersID).value);
+    if(dateFilterValue >= 0) {
+        filterDate = filterDates[dateFilterValue];
+    } else {
+        filterDate = "";
+    }
+    renderTable();
+}
+
+function renderTable() {
     let table = document.getElementById(tableID);
+    table.innerHTML = "";
     generateTableHead(table);
-    generateTable(table, items);
+    generateTable(table);
 }
 
 function generateTableHead(table) {
@@ -157,9 +231,15 @@ function generateTableHead(table) {
     }
 }
 
-function generateTable(table, data) {
-    data.forEach( (item, i) => {
+function generateTable(table) {
+    items.forEach( (item, i) => {
         if (!item.available) {
+            return;
+        }
+        if (filterTime !== "" && filterTime !== item["time"]) {
+            return;
+        }
+        if (filterDate !== "" && filterDate !== item["date"]) {
             return;
         }
         addTableRow(table, item);
@@ -167,8 +247,6 @@ function generateTable(table, data) {
 }
 
 function addTableRow(table, item) {
-    // Item will always be at least tomorrow so we can pick the date based on the day of week
-
     let row = table.insertRow();
     for (let column of displayColumns) {
         let cell = row.insertCell();
@@ -178,7 +256,6 @@ function addTableRow(table, item) {
             case "book":
                 let link = document.createElement("a");
                 link.href = "sms:" + smsContactNumber + "?body=" + encodeURI(bookLinkSMSBodyPrefix + item["time"] + " on " + item["date"]);
-                //sms:2263133335?body=I%27m%20interested%20in%20booking%20an%20appointment.
                 let linkText = document.createTextNode(bookLinkText);
                 link.appendChild(linkText);
                 cell.appendChild(link);

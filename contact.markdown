@@ -35,8 +35,6 @@ Call or text [(226) 313-3335](tel:2263133335)
 
 To book your Initial Phone Consultation, send us an email, call or text with your name, contact details and your choice of available consult times.
 
-This is a list of the available times this week. To book an appointment, [send us an email](mailto:info@midtowncounselling.ca), [call](tel:2263133335) or [text](sms:2263133335?body=I%27m%20interested%20in%20booking%20an%20appointment.).
-
 {% include partials/available-year.html %}
 
 To attend your scheduled video appointment, [click here](/session).
