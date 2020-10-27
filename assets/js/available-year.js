@@ -255,9 +255,14 @@ function addTableRow(table, item) {
         switch(column.key) {
             case "book":
                 let link = document.createElement("a");
+                link.className = "sms-booking-link";
                 link.href = "sms:" + smsContactNumber + "?body=" + encodeURI(bookLinkSMSBodyPrefix + item["time"] + " on " + item["date"]);
-                let linkText = document.createTextNode(bookLinkText);
-                link.appendChild(linkText);
+                link.title = "Book an appointment via sms for " + item["time"] + " on " + item["date"] + " (if your device supports sms)";
+                // let linkText = document.createTextNode(bookLinkText);
+                // link.appendChild(linkText);
+                let img = document.createElement("img");
+                img.src = "/assets/images/icons/sms.svg";
+                link.appendChild(img);
                 cell.appendChild(link);
                 break;
 

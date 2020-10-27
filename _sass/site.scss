@@ -286,13 +286,13 @@ h1, h2, h3, h4, h5, h6 {
     }
     margin-bottom: $default-spacing;
     @include media-query($on-palm) {
-        &.float-left {
-            margin-right: 0;
-        }
+        &.float-left,
         &.float-right {
+            margin-right: auto;
             margin-left: 0;
+            float: none;
         }
-        float: none;
+        display: block;
         width: 100%;
         max-width: 300px;
     }
@@ -633,5 +633,22 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: $large-spacing;
     table {
         margin-bottom: 0;
+    }
+}
+.column-book {
+    text-align: center;
+}
+.sms-booking-link {
+    img {
+        width: 20px;
+        height: 20px;
+        opacity: 0.6;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+        img {
+            opacity: 0.8;
+        }
     }
 }
