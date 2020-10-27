@@ -76,7 +76,7 @@ body.without-masthead {
 
 .masthead {
     height: 50vh;
-    min-height: 16rem;
+    min-height: 30rem;
     background-size: cover;
     background-position: 50% 50%;
     display: flex;
@@ -381,18 +381,42 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+footer {
+    background-color: $footer-background-color;
+    color: $footer-color;
+}
+
 .site-footer {
-    .footer-links {
-      color: $footer-color;
-      background-color: $footer-background-color;
-      height: $footer-height;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      .footer-contact {
+    display: flex;
+    padding-top: $default-spacing;
+    padding-bottom: $default-spacing;
+    .footer-column {
+        flex: 0;
+        flex-basis: 33.3333%;
+        padding: $default-spacing;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    address {
+        font-style: normal;
+        font-size: 0.9em;
+        width: 100%;
+        a {
+            display: block;
+            color: $text-color;
+        }
+    }
+    .footer-social {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         vertical-align: baseline;
         a {
+            display: block;
             opacity: 0.5;
+            line-height: 0;
             &:hover,
             &:focus {
                 opacity: 1;
@@ -402,18 +426,39 @@ h1, h2, h3, h4, h5, h6 {
                 width: 30px;
                 height: 30px;
             }
-
         }
-      }
     }
-    .footer-copyright {
-      text-align: center;
-      padding-top: 5px;
-      padding-bottom: 5px;
-      background-color: $footer-copyright-notice-background-color;
-      color: $footer-copyright-notice-color;
-      font-size: 0.8em;
+    .footer-seal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
+    @include media-query($on-laptop) {
+        flex-direction: column;
+        padding: $default-spacing $default-spacing 0 $default-spacing;
+        .footer-column {
+            padding: $small-spacing $default-spacing;
+        }
+        .footer-contact {
+            order: 2;
+            text-align: center;
+        }
+        .footer-social {
+            order: 1;
+        }
+        .footer-seal {
+            order: 3;
+        }
+    }
+}
+.footer-copyright {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: $footer-copyright-notice-background-color;
+    color: $footer-copyright-notice-color;
+    font-size: 0.8em;
 }
 
 .row {

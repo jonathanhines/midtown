@@ -1,9 +1,22 @@
-<footer class="site-footer">
-  <div class="footer-links">
-    <div class="footer-contact">
-      {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">{%- include icons/facebook.svg -%}</a>{%- endif -%}
-      {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" title="LinkedIn">{%- include icons/linkedin.svg -%}</a>{%- endif -%}
-      {%- if site.email -%}<a title= "{{ site.email }}" href="mailto:{{ site.email }}">{%- include icons/mail.svg -%}</a>{%- endif -%}
+<footer>
+  <div class="site-footer wrapper">
+    <div class="footer-column column-1 footer-contact">
+      <address>
+        <a href="mailto:info@midtowncounselling.ca">info@midtowncounselling.ca</a>
+        <a href="tel:2263133335">(226) 313-3335</a>
+        <a href="https://goo.gl/maps/4Y8x66Hsc8JhMAcy9">90 Blucher St, Kitchener, ON Canada</a>
+      </address>
+    </div>
+    <div class="footer-column column-2 footer-social">
+      <div class="footer-social">
+        {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">{%- include icons/facebook.svg -%}</a>{%- endif -%}
+        {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" title="LinkedIn">{%- include icons/linkedin.svg -%}</a>{%- endif -%}
+        {%- if site.email -%}<a title= "{{ site.email }}" href="mailto:{{ site.email }}">{%- include icons/mail.svg -%}</a>{%- endif -%}
+      </div>
+    </div>
+    <div class="footer-column column-3 footer-seal">
+      <a href="https://www.psychologytoday.com/profile/463230" class="sx-verified-seal"></a>
+      <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="14" data-id="463230" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script>
     </div>
   </div>
   <div class="footer-copyright">Copyright &copy; {{ site.title | escape }} 2020</div>
