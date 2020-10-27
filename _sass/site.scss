@@ -596,6 +596,13 @@ h1, h2, h3, h4, h5, h6 {
 .error-message {
     color: $color-red;
 }
+.info-message {
+    font-weight: 700;
+    font-size: 1.1em;
+}
+#none-available-notice {
+    margin: $default-spacing;
+}
 
 // Thanks to bootstrap for these styles
 .custom-select {
@@ -632,7 +639,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: auto;
 }
 .available-times-table {
-    max-height: 600px;
+    max-height: 610px; // Set the max height so that there will be some overlap of the text with the bottom to indicate that there are more items.
     margin-bottom: $large-spacing;
     table {
         margin-bottom: 0;

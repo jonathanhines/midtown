@@ -11,6 +11,7 @@ var timeFiltersID = "time-filter";
 var dateFiltersID = "date-filter";
 var tableID = "available-table";
 var errorNoticeID = "available-error-notice";
+var noneAvailableNoticeID = "none-available-notice";
 var today = new Date();
 var showDaysInFuture = 14;
 var showUntilDate = new Date();
@@ -21,6 +22,8 @@ var displayDateOptions = { weekday: 'long', month: 'short', day: 'numeric' };
 var displayDateLocale = "en-CA"
 var bookLinkText = "SMS";
 var bookLinkSMSBodyPrefix = "I'm interested in booking an appointment: ";
+var noAppointmentsFoundMessage = "No appointments available at this time."
+var noAppointmentsFoundMessageWithFilters = "No appointments available at this time for the filters you have selected."
 
 var filterDate = "";
 var filterTime = "";
@@ -155,17 +158,40 @@ function buildFilters() {
     // Get a unique list of filters
     filterTimes = [];
     filterDates = [];
+    filterTimeCounts = [];
+    filterDateCounts = [];
+    // We need to add filters in the order they are received as the order is important but we count how many there are in case we want to strip out empty filters
     items.forEach( (item, i) => {
-        if(!item["available"]) {
-            return;
-        }
-        if(filterTimes.indexOf(item["time"]) === -1) {
+        let timeIndex = filterTimes.indexOf(item["time"]);
+        if( timeIndex === -1) {
             filterTimes.push(item["time"]);
+            timeIndex = filterTimes.length - 1;
+            filterTimeCounts[timeIndex] = 0;
         }
-        if(filterDates.indexOf(item["date"]) === -1) {
+        let dateIndex = filterDates.indexOf(item["date"]);
+        if( dateIndex === -1) {
             filterDates.push(item["date"]);
+            dateIndex = filterDates.length - 1;
+            filterDateCounts[dateIndex] = 0;
+        }
+        if (item["available"]) {
+            filterTimeCounts[timeIndex]++;
+            filterDateCounts[dateIndex]++;
         }
     });
+    // Strip out empty filters
+    // Walk backwards so that we can splice without changing index numbers of items not yet assessed
+    for(let i = filterTimes.length - 1; i >=0; --i) {
+        if(filterTimeCounts[i] <= 0) {
+            filterTimes.splice(i,1);
+        }
+    }
+    for(let i = filterDates.length - 1; i >= 0; --i) {
+        if(filterDateCounts[i] <= 0) {
+            filterDates.splice(i,1);
+        }
+    }
+
     let filters = document.getElementById(filtersID);
     addFilterSelect(filters, dateFiltersID, "Date", filterDates);
     addFilterSelect(filters, timeFiltersID, "Time", filterTimes);
@@ -232,6 +258,7 @@ function generateTableHead(table) {
 }
 
 function generateTable(table) {
+    let count = 0;
     items.forEach( (item, i) => {
         if (!item.available) {
             return;
@@ -242,8 +269,19 @@ function generateTable(table) {
         if (filterDate !== "" && filterDate !== item["date"]) {
             return;
         }
+        count++;
         addTableRow(table, item);
     });
+    let noneAvailableNoticeContainer = document.getElementById(noneAvailableNoticeID);
+    if(count > 0) {
+        noneAvailableNoticeContainer.textContent = "";
+    } else {
+        if(filterDate === "" && filterTime == "") {
+            noneAvailableNoticeContainer.textContent = noAppointmentsFoundMessage;
+        } else {
+            noneAvailableNoticeContainer.textContent = noAppointmentsFoundMessageWithFilters;
+        }
+    }
 }
 
 function addTableRow(table, item) {
