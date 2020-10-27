@@ -38,22 +38,62 @@
     display: none;
   }
 
-  .page-link {
-    color: $nav-color;
-    line-height: $base-line-height;
-    text-decoration: none;
-    &:hover,
-    &:focus {
-      text-decoration: none;
-      color: $brand-light;
-    }
-    &.active {
-      color: $brand-light;
-    }
+  ul {
+    list-style: none;
+    margin: 0;
+    li {
+      display: inline-block;
+      position: relative;
+      .page-link {
+        color: $nav-color;
+        line-height: $base-line-height;
+        text-decoration: none;
+        margin-left: 10px;
+        &:hover,
+        &:focus {
+          text-decoration: none;
+          color: $brand-light;
+        }
+        &.active {
+          color: $brand-light;
+        }
+      }
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) .page-link {
+        margin-right: 10px;
+      }
+      @include media-query-inverse($width-hamburger) {
+        .page-link {
+          &.in-path {
+            color: $brand-light;
+          }
+        }
+        ul.submenu {
+          display: none;
+          background: $dropdown-menu-background-color;
+          li {
+            display: block;
+            padding: 0;
+            line-height: 1;
+            border-top: solid 1px rgba($brand-light, 0.5);
+            .page-link {
+              display: block;
+              padding: $default-spacing;
+              margin: 0;
+            }
+          }
+        }
+        &.has-subpages:hover {
+          background-color: $dropdown-menu-background-color;
+        }
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+        &:hover ul.submenu,
+        ul.submenu:hover {
+          display: block;
+          position: absolute;
+          z-index: 1000;
+        }
+      }
     }
   }
 
@@ -108,8 +148,33 @@
       border-top: solid 1px rgba($brand-light, 0.5);
       &:not(:last-child) {
         margin-right: 0;
+        margin-left: 0;
       }
     }
+
+    ul {
+      li {
+        display: block;
+        .page-link {
+          display: block;
+          padding: $default-spacing 0;
+          border-top: solid 1px rgba($brand-light, 0.5);
+          margin-left: 0;
+        }
+        &:not(:last-child) .page-link {
+          margin-right: 0;
+        }
+        ul.submenu {
+          display: block;
+          li {
+            font-size: 0.95em;
+            display: block;
+          }
+        }
+      }
+    }
+
+
   }
 }
 

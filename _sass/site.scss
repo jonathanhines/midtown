@@ -11,6 +11,9 @@
     .page-link {
         text-transform: uppercase;
     }
+    .submenu .page-link {
+        text-transform: none;
+    }
 }
 
 .site-title {

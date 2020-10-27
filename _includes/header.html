@@ -17,12 +17,26 @@
       </label>
 
       <div class="trigger">
-
-        {% for item in site.data.navigation %}
-          <a class="page-link {% if page.url == item.link %} active{% endif %}" href="{{ item.link }}" >
-            {{ item.name }}
-          </a>
-        {% endfor %}
+        <ul>
+          {% for item in site.data.navigation %}
+              <li class="{%- if item.subpages -%}has-subpages{% endif %}">
+                <a class="page-link {% if page.url == item.link %} active{% endif %}{% if page.url contains item.link %} in-path{% endif %}" href="{{ item.link }}" >
+                    {{ item.name }}
+                </a>
+                {%- if item.subpages -%}
+                    <ul class="submenu">
+                        {% for subpage in item.subpages %}
+                        <li>
+                            <a class="page-link {% if page.url == subpage.link %} active{% endif %}" href="{{ subpage.link }}" >
+                            {{ subpage.name }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                {%- endif -%}
+              </li>
+          {% endfor %}
+        </ul>
       </div>
     </nav>
   {%- endif -%}

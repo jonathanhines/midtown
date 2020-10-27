@@ -3,6 +3,11 @@
 #  link: /
 - name: Services
   link: /services/
+  subpages:
+    - name: Individuals/Families
+      link: /services/individuals
+    - name: Businesses/Organizations
+      link: /services/businesses
 - name: About Us
   link: /about/
 - name: News
