@@ -32,7 +32,13 @@
 body.with-masthead {
     .site-header {
         background-color: transparent;
+        @include media-query($width-hamburger) {
+            &.nav-open {
+                background-color: rgba(0,0,0,0.85);
+            }
+        }
     }
+
 
     .site-title svg {
         fill: $brand-light;
@@ -43,6 +49,21 @@ body.with-masthead {
 
     .page-content {
         margin-top: -1 * $header-height;
+    }
+}
+
+body.without-masthead {
+    .site-header {
+        background: url(/assets/images/bricks-header-bg.jpg);
+        background-size: cover;
+        background-position: top 50%;
+        @include media-query($width-hamburger) {
+            &.nav-open {
+                background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(/assets/images/bricks-header-bg.jpg);
+                background-size: cover;
+                background-position: top 50%;
+            }
+        }
     }
 }
 
