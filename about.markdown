@@ -31,4 +31,4 @@ For those who want to know about my degrees and therapeutic modalities, read on.
 
 <img src="/assets/images/hiking.jpg" alt="" class="image-float float-right"> The Midtown Community is growing and thriving. Midtown has partnerships with several churches and local businesses for the purpose of mental health advocacy, education and capacity building. Collaborations include running community education events, leadership forums, and offering no-charge consultations and services to those in need.
 
-While there are so many opportunities for awesome partnerships in Kitchener-Waterloo, Midtown has retained its unique neighbourhood-specific focus. If you’re looking to partner toward improved wellness for the area, let’s chat!
+While there are so many opportunities for awesome partnerships in Kitchener-Waterloo, Midtown has retained its unique neighbourhood-specific focus. If you’re looking to partner toward improved wellness for the area, [let’s chat](/contact)!
