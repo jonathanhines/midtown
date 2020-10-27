@@ -172,7 +172,7 @@ ul.feature-circles {
 
 .content-divider {
     width: 50%;
-    margin: 70px auto;
+    margin: 50px auto;
     color: $divider-color;
 }
 
@@ -675,5 +675,9 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 1.4em;
         padding-top: $large-spacing;
     }
-
+}
+.post.about {
+    h2 {
+        padding-top: $large-spacing;
+    }
 }

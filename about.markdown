@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+class: about
 ---
 
 <img src="/assets/images/hands-couch.jpg" alt="" class="image-float float-right">
