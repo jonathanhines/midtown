@@ -6,6 +6,8 @@ background: /assets/images/masthead-card.jpg
 masthead_text: Frequently Asked Questions
 ---
 
+<img src="/assets/images/masthead-card.jpg" alt="" class="image-float float-right hide-mobile">
+
  - [What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy?](#psychotherapy)
  - [How do I find a good therapist](#quality)
  - [How do people pay for treatment?](#payment)
@@ -13,6 +15,7 @@ masthead_text: Frequently Asked Questions
  - [What’s wellness, psychosocial health, psychological health, mental health, mental illness and mental/psychological disorders?](#definitions)
 
 ## What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy? {#psychotherapy}
+{: class="clear"}
 
 **Psychotherapy** is the use of talk therapies such as Cognitive Behavioural Therapy (CBT) to treat psychological problems, like difficulties with emotions, behaviours or perceptions. It is a controlled act, and practitioners must be properly trained with licencing from an accredited body (e.g. College of Psychologists, College of Social Work, College of Psychotherapy).
 

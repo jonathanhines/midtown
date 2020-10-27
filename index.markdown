@@ -9,9 +9,9 @@ masthead_cta_text: Contact Us
 ---
 
 <ul class="feature-circles">
-    <li><a href="/services#stress">Depression, Anxiety, Stress</a></li>
-    <li><a href="/services#relationships">Family, Relationships</a></li>
-    <li><a href="/services#wellness">Personal Wellness</a></li>
+    <li><a href="/services/individuals/#stress">Depression, Anxiety, Stress</a></li>
+    <li><a href="/services/individuals/#relationships">Family, Relationships</a></li>
+    <li><a href="/services/individuals/#wellness">Personal Wellness</a></li>
 </ul>
 
 <hr class="content-divider">

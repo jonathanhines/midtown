@@ -298,7 +298,13 @@ h1, h2, h3, h4, h5, h6 {
         display: block;
         width: 100%;
         max-width: 300px;
+        &.hide-mobile {
+            display: none;
+        }
     }
+}
+.clear {
+    clear: both;
 }
 
 .image-jump-links {
