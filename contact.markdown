@@ -33,6 +33,10 @@ Call or text [(226) 313-3335](tel:2263133335)
 
 ### Book now
 
+<div class="alert">
+During Covid 19, most appointments are being provided by video or phone session. In person, in-home appointments are available on an as needed basis
+</div>
+
 To book your Initial Phone Consultation, [send us an email](mailto:info@midtowncounselling.ca), [call](tel:2263133335) or [text](sms:2263133335) with your name, contact details and your choice of available consult times.
 
 {% include partials/available-year.html %}

@@ -714,6 +714,15 @@ footer {
     }
 }
 
+.alert {
+    border: solid 1px $color-peach;
+    padding: $default-spacing;
+    margin: $default-spacing 0;
+    border-radius: 3px;
+    background-color: rgba($color-peach, 0.3);
+    font-weight: 700;
+}
+
 /* Page specific styles*/
 .post.faq {
     h2 {
