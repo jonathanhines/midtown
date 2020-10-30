@@ -2,12 +2,10 @@
 layout: page
 title: Frequently Asked Questions
 permalink: /faq/
-background: /assets/images/masthead-card.jpg
-masthead_text: Frequently Asked Questions
 class: faq
 ---
 
-<img src="/assets/images/masthead-card.jpg" alt="" class="image-float float-right hide-mobile">
+<img src="/assets/images/two-hands.jpg" alt="" class="image-float float-right hide-mobile">
 
  - [What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy?](#psychotherapy)
  - [How do I find a good therapist](#quality)

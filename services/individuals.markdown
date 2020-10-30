@@ -35,7 +35,7 @@ Relationships are really important to mental wellness. When they’re lacking co
 
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/work.jpg" alt="">
+<img src="/assets/images/man-on-street.jpg" alt="">
 </div>
 <div class="service-item-description" markdown="1">
 

@@ -310,9 +310,12 @@ h1, h2, h3, h4, h5, h6 {
 .image-jump-links {
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
     .jump-link {
-        flex: 1;
+        flex: 0 0 50%;
         padding: 30px;
+        box-sizing: border-box;
         //width: 50%;
         img {
             width: 100%;
@@ -459,6 +462,9 @@ footer {
     background-color: $footer-copyright-notice-background-color;
     color: $footer-copyright-notice-color;
     font-size: 0.8em;
+    a {
+        color: inherit;
+    }
 }
 
 .row {
