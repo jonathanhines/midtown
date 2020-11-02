@@ -33,7 +33,7 @@ var filterDates = [];
 var filterTimes = [];
 
 var canCache = storageAvailable('localStorage');
-var cacheTimeMS = 1000 * 60 * 5; // 5 minutes in MS
+var cacheTimeMS = 1000 * 60 * 10; // 10 minutes in MS
 
 window.addEventListener('load', function () {
     if(canCache) {
