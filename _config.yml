@@ -54,6 +54,7 @@ sass:
 exclude:
   - Makefile
   - README.md
+  - run.bat
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
