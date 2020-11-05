@@ -17,5 +17,5 @@ masthead_cta_text: Contact Us
 <hr class="content-divider">
 
 <div class="blurb" markdown="1">
-Living with a DARK, stormy cloud over your head is NO way to live. If your cloud is taking away from your personal life or career, you may feel burdened, alone or misunderstood. It doesn't have to be that way. Psychotherapy techniques like Cognitive Behavioural Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression & stress, restore confidence, develop effective relationships, and unlock personal potential. The solutions to your problems might be closer than you think.
+Living with a dark, stormy cloud over your head is NO way to live. If your cloud is taking away from your personal life or career, you may feel burdened, alone or misunderstood. It doesn't have to be that way. Psychotherapy techniques like Cognitive Behavioural Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression & stress, restore confidence, develop effective relationships, and unlock personal potential. The solutions to your problems might be closer than you think.
 </div>

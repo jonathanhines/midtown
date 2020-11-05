@@ -1,1 +1,1 @@
-bundle exec jekyll serve --livereload --open-url http://localhost:4000/
+bundle exec jekyll serve --open-url http://localhost:4000/
