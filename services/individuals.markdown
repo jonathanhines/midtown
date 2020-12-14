@@ -4,7 +4,7 @@ title: Services For Individuals/Families
 permalink: /services/individuals
 ---
 
-We’re here to support you with your goals. First, we listen, then we treat.
+We’re here to support you with your goals.
 Our areas of expertise include:
 
 <div class="service-item">
@@ -52,7 +52,9 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 <div class="service-listing" markdown="1">
 
 #### Initial Phone Consultation
-Phone consultation with Shelly Pavlic to confirm suitable client-therapist match, clarify primary counselling need, and review relevant service options and recommendations. This is a no obligation, confidential conversation.
+* Tell us about yourself and your counselling needs
+* Hear about Midtown Counselling and what we can do for you
+* This is a no obligation, confidential conversation
 
 No Charge.
 {: .price}
@@ -60,28 +62,35 @@ No Charge.
 </div>
 <div class="service-listing" markdown="1">
 
-#### First Sessions Assessment Treatment Plan
-Psychosocial assessment and problem formulation specific to your needs & situation, followed by treatment recommendations and shared intervention planning. You decide what comes next. Perhaps the insights & recommendations from this session are all that’s needed right now, or perhaps you’re ready to create a counselling plan with your therapist.
+#### First Session: Assessment
+* Assess your needs and circumstances (i.e. biopsychosocial case formulation)
+* Receive treatment recommendations
+* If assessment insights are helpful enough - that's great! Otherwise, we'll create a treatment plan together.
 
-$135 - $165*
+$165* (85 mins)
 {: .price}
 
 </div>
 <div class="service-listing" markdown="1">
 
 #### Individual Follow Up Counselling Sessions
-Meaning and compassionate insight & skill building sessions utilizing psychotherapy interventions, symptom monitoring, and recovery progress evaluation. Treatment is founded in Cognitive Behavioral Therapy (CBT) and other best-practice modalities, but tailored to you.
+* Find meaning, gain insight and build self-compassion
+* Build skills in psychotherapy interventions (e.g. Cognitive Behavioral Therapy (CBT) and other best-practice modalities)
+* Monitor your progress and refine your treatment plan
 
-$135-165*
+$135-165* (55-85 mins)
 {: .price}
 
 </div>
 <div class="service-listing" markdown="1">
 
 #### Family Follow Up Counselling Sessions
-These sessions follow your family’s initial session, or are added to individual plans on request. Your family will be led through evidenced-based, customized interventions to support your family’s goals. Planning and interventions are done collaboratively, and extended sessions allow for everyone’s participation. We guide your family toward caring, productive & growthful dialogue.
+* Address goals identified during your individual/family assessment
+* Utilize evidenced-based, customized interventions suited to your family
+* Plan and act collaboratively with your family and therapist
+* Learn to communicate in a caring and productive manner
 
-$135 - $165*
+$165* (85 mins)
 {: .price}
 
 </div>

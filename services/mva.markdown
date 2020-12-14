@@ -14,7 +14,7 @@ At Midtown Counselling, we understand that ALL steps in the recovery process tak
 
 ### Comprehensive Social Work Assessment & Treatment Planning (including OCF-18s) {#planning}
 
-In-home or in-clinic assessments of your bio-psycho-social functioning before and after the accident, identifying areas of loss and psychological injury related to the accident, utilizing psychologically validated tools toward clarifying your symptomatology, summarizing your strengths, resources, and particular circumstances, and creating a customized treatment plan toward restoring productive, meaningful, and satisfying living. Phone and/or video correspondence may be used to complement your assessment.
+In-HOME or in-clinic assessments of your bio-psycho-social functioning before and after the accident, identifying areas of loss and psychological injury related to the accident, utilizing psychologically validated tools toward clarifying your symptomatology, summarizing your strengths, resources, and particular circumstances, and creating a customized treatment plan toward restoring productive, meaningful, and satisfying living. Phone and/or video correspondence may be used to complement your assessment.
 
 </div>
 </div>
