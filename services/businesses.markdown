@@ -4,7 +4,7 @@ title: Services For Businesses/Organizations
 permalink: /services/businesses
 ---
 
-We’re here to support your business/organization with its goals. First, we listen, then we intervene. Each group’s needs are unique. So is our programming. Perhaps you’re looking for mental health awareness and coaching, perhaps one of your members needs individual support and help navigating community services, perhaps your team suffered a crisis, loss or traumatic experience or perhaps you’re not sure what they need but you know they need support. Whatever the need, let’s chat.
+Perhaps you’re looking for Mental Health awareness and coaching, perhaps one of your members needs individual support and help navigating community services, perhaps your team suffered a crisis, loss or traumatic experience or perhaps you're not yet sure of your group's needs and would like professional guidance. Whatever your circumstances, we’re here to support your business/organization with its goals.
 
 <div class="service-item">
 <div class="service-item-title">
