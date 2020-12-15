@@ -6,9 +6,25 @@ permalink: /news/
 
 <div class="event-notice" markdown="1">
 
-## Fall 2020
+## Ongoing 2020
 {: .event-date}
-**Midtown Counselling’s Clinic will re-open to in-clinic sessions this fall.** Date to be determined. Until then, services continue via video-conference (Doxy.Me), phone, and distanced outdoor in-person visits where safety can be accommodated (travel expenses apply).
+**Midtown Community Connects** Midtown counselling is proud to announce the continuation of this weekly community group, newly under full peer-led direction. (This is an extension of Midtown Counselling's **Surviving Covid as a Community, 3 Part Series**, and is being posted on the group's behalf). This is a distanced, outdoor event, committed to following safety guidelines, including remaining within Public Health gathering limits. The small eclectic group meets at Cafe Pyrus' Outpost Thursdays at 7pm weekly for one hour. (LINK TO PAMPHLET)
+
+</div>
+
+<div class="event-notice" markdown="1">
+
+## October 22, 2020
+{: .event-date}
+**Supporting Front Lines and Communities in Covid** Guest speaker: Shelyl Pavlic, Reflexive Group and Community Practice, Master of Social Work Program, Faculty of Social Work, Wilfrid Laurier University
+
+</div>
+
+<div class="event-notice" markdown="1">
+
+## September 2020
+{: .event-date}
+**Midtown Counselling continues Video, Phone and In-Person sessions.** Services continue via video-conference (Doxy.Me), phone, and distanced outdoor in-person visits where safety can be accommodated (travel expenses apply). Our clinic's physical doors will re-open as soon as community health circumstances allow.
 
 </div>
 
@@ -51,7 +67,7 @@ permalink: /news/
 
 <div class="event-notice" markdown="1">
 
-## November 12, 2020
+## November 12, 2019
 {: .event-date}
 **Midtown Churches and Mental Health: A Round Table Workshop**, Chair: Shelly Pavlic, hosted by Midtown Counselling (LINK TO PAMPHLET)
 

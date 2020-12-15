@@ -4,7 +4,7 @@ title: Services For Individuals/Families
 permalink: /services/individuals
 ---
 
-Feel Better and Do Better. We're here to help.
+Feel Better and Do Better. We're here to help. [Book Now](/contact/)
 
 <div class="service-item">
 <div class="service-item-title">
@@ -51,11 +51,11 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 <div class="service-listing" markdown="1">
 
 #### Initial Phone Consultation
-* Tell us about yourself and your counselling needs
-* Find out what Midtown Counselling can do for you
-* This is a no obligation, confidential consultation
+* Tell us about yourself and your situation
+* Find out what Midtown can do for you
+* This is a no obligation, confidential call
 
-No Charge.
+No Charge. [Book Now](/contact/)
 {: .price}
 
 </div>
@@ -66,16 +66,16 @@ No Charge.
 * Receive treatment recommendations
 * Develop a treatment plan with your therapist
 
-$165* (85 mins)
+$165* (85 mins) [Book Now](/contact/)
 {: .price}
 
 </div>
 <div class="service-listing" markdown="1">
 
 #### Individual Follow-Up Sessions
-* Find meaning, gain insight, build self-compassion
-* Build skills in evidenced-based interventions like CBT
-* Monitor your progress and celebrate gains
+* Find meaning and gain insight
+* Build skills in evidenced-based interventions
+* Monitor your progress & celebrate gains
 
 $135-165* (55-85 mins)
 {: .price}
@@ -84,9 +84,9 @@ $135-165* (55-85 mins)
 <div class="service-listing" markdown="1">
 
 #### Family Follow-Up Sessions
-* Address issues identified in your individual/family assessment
-* Utilize customized interventions suited to your family
-* Celebrate progress in communication and connectivity
+* Address issues identified in your assessment
+* Receive interventions suited to your family
+* Improve family communication & connection
 
 $165* (85 mins)
 {: .price}
@@ -94,24 +94,17 @@ $165* (85 mins)
 </div>
 </div>
 
-### \*Discounts and Subsidies
-{: .align-center}
+##### \*Preferred Rates and Subsidies
 
 <div class="listings">
 <div class="discount-listing" markdown="1">
 
-#### Preferred Partner Rates
-{: .uppercase}
-
-Ask your employer, church or organization head. We may already have a partnership. If not, speak to them or us. We specialize in helping businesses/organizations care for their people.
+###### - Check with your employer, church or organization to see if you have access to our **Preferred Rates**. If not, submit a request to them or [contact us](/contact/). We specialize in helping organizations and businesses care for their people.
 
 </div>
 <div class="discount-listing" markdown="1">
 
-#### Financial Subsidies
-{: .uppercase}
-
-If counselling fees are beyond your reach, let's talk. Our maximum subsidy is 15%. If that's still out of reach, please speak to your doctor or call [Here 24/7](https://here247.ca/) for information on publicly funded services. 
+###### - Are counselling fees are beyond your reach? Our maximum **Financial Subsidy** is 15%. If that's also out of reach, please speak with your doctor or [Here 24/7](https://here247.ca/) for help accessing alternatively funded services. 
 
 </div>
 </div>

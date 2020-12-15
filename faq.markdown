@@ -13,6 +13,8 @@ class: faq
  - [How do I know when I should get help?](#when)
  - [What’s wellness, psychosocial health, psychological health, mental health, mental illness and mental/psychological disorders?](#definitions)
 
+Have a another question you'd like answered? [Just Ask](/contact/)
+
 ## What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy? {#psychotherapy}
 {: class="clear"}
 
