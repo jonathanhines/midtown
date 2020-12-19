@@ -136,6 +136,18 @@ a.link-button {
         color: $brand-color;
         text-decoration: none;
     }
+    &.inverted {
+        border: solid 1px $color-white;
+        background-color: $color-white;
+        color: $brand-color;
+        &:hover,
+        &:focus,
+        &:active {
+            background-color: $brand-color;
+            color: $color-white;
+            border: solid 1px $color-white;
+        }
+    }
 }
 
 $feature-circle-diameter: 300px;
@@ -217,6 +229,12 @@ hr {
         .callout-text-right {
             flex: 1;
             padding-left: 30px;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            .callout-link {
+                margin: 0;
+            }
         }
         @include media-query($on-laptop) {
             flex-direction: column;
@@ -238,6 +256,23 @@ hr {
     a {
         color: $color-white;
         text-decoration: underline;
+        &.link-button {
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+            padding: 5px $default-spacing;
+            font-size: 1.3rem;
+            border: solid 1px $color-white;
+            background-color: $color-white;
+            color: $brand-color;
+            &:hover,
+            &:focus,
+            &:active {
+                background-color: $brand-color;
+                color: $color-white;
+                border: solid 1px $color-white;
+            }
+        }
     }
 }
 
@@ -253,6 +288,7 @@ hr {
         grid-gap: 30px;
         .news-item {
             border: solid 1px $divider-color;
+            border-radius: 5px;
             padding: 30px 30px 46px;
             flex: 1;
             position: relative;

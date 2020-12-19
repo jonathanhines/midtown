@@ -30,9 +30,24 @@ Living with a dark, stormy cloud over your head is NO way to live. If your cloud
 </div>
 <div class="callout-text-right" markdown="1">
 
-Midtown Counselling is part of our community. Our clinic is conveniently located between Downtown Kitchener and Uptown Waterloo and provides a comfortable and private setting for appointments. ([about us >](/about))
+Midtown Counselling is part of our community. Our clinic is conveniently located between Downtown Kitchener and Uptown Waterloo and provides a comfortable and private setting for appointments.
 
-Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensive training in complex psychological health & wellness. Shelly specializes in Cognitive Behavioral Therapist (CBT), and integrate techniques from Mindfulness Therapy, Dialectical Behavioral Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma-informed care.  ([about Shelly >](/about/#shelly))
+<div class="callout-link"><a href="/about" class="link-button inverted">about us</a></div>
+
+</div>
+</div>
+</div>
+
+<div class="callout">
+<div class="wrapper callout-content">
+<div class="call-image-left">
+<img src="/assets/images/shelly-1.jpg" title="the clinic" alt="a picture of a brick house, the Midtown Counselling clinic.">
+</div>
+<div class="callout-text-right" markdown="1">
+
+Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensive training in complex psychological health & wellness. Shelly specializes in Cognitive Behavioral Therapist (CBT), and integrate techniques from Mindfulness Therapy, Dialectical Behavioral Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma-informed care.
+
+<div class="callout-link"><a href="/about/#shelly" class="link-button inverted">about Shelly</a></div>
 
 </div>
 </div>
