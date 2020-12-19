@@ -35,5 +35,4 @@ Collaborations include running community events, awareness initiatives leadershi
 
 While there are an unlimited number of opportunities for creative partnerships in Kitchener-Waterloo, we have retained our unique neighbourhood-specific commitment. If you’re looking for help building community resilience in the KW Midtown area, [let's talk >](/contact)!
 
----------
-["I'm interested. I'd like to find out more." >](/contact/))
+<div class="callout-link"><a class="link-button" href="/contact/">I'm interested. I'd like to find out more.</a></div>

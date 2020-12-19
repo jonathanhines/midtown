@@ -115,5 +115,4 @@ $165* (85 mins)
 
 -------------
 
-
-["I'm ready for change" >](/contact/)
+<div class="callout-link"><a class="link-button" href="/contact/">I'm ready for change</a></div>

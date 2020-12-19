@@ -33,4 +33,4 @@ If your business is located near the centres of Kitchener or Waterloo and you ar
 
 ___________
 
-["My business needs help" >](/contact/)
+<div class="callout-link"><a class="link-button" href="/contact/">My business needs help</a></div>

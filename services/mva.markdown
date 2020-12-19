@@ -32,4 +32,6 @@ You'll receive in-home or in-clinic social work and psychotherapy interventions 
 </div>
 </div>
 
-["I need help with my recovery" >](/contact/)
+-----------
+
+<div class="callout-link"><a class="link-button" href="/contact/">I need help with my recovery</a></div>
