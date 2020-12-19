@@ -167,6 +167,8 @@ $desktop-nav-hover-grow: 8px;
           padding: $default-spacing 0;
           border-top: solid 1px rgba($brand-light, 0.5);
           margin-left: 0;
+          font-weight: 700;
+          text-transform: none;
         }
         &:not(:last-child) .page-link {
           margin-right: 0;
@@ -176,6 +178,9 @@ $desktop-nav-hover-grow: 8px;
           li {
             font-size: 0.95em;
             display: block;
+            .page-link {
+              font-weight: 300;
+            }
           }
         }
       }

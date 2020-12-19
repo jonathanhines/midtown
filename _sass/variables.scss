@@ -1,4 +1,5 @@
 $color-dark-purple: #05032D;
+$color-blue: #477BE4;
 $color-peach: #E5A37B;
 $color-green: #BAAE57;
 $color-white: #FFFFFF;
@@ -9,7 +10,7 @@ $color-red: #b0122c;
 $text-color: #111111;
 $brand-light: $color-peach;
 $brand-dark: $color-dark-purple;
-$brand-color: lighten($brand-dark, 25%);
+$brand-color: $color-blue;
 $divider-color: rgba($brand-dark, 0.3);
 
 $nav-color: $color-white;

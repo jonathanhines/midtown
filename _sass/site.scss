@@ -121,12 +121,29 @@ body.without-masthead {
     }
 }
 
+a.link-button {
+    display: inline-block;
+    border-radius: 5px;
+    border: solid 1px $brand-color;
+    background-color: $brand-color;
+    color: $color-white;
+    padding: 5px $default-spacing;
+    font-size: 1.3rem;
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: $color-white;
+        color: $brand-color;
+        text-decoration: none;
+    }
+}
+
 $feature-circle-diameter: 200px;
 $feature-circle-font-size: 1.7em;
 $feature-circle-padding: 40px;
 $feature-circle-background-color: $color-peach;
 $feature-circle-color: $brand-dark;
-ul.feature-circles {
+ul.features {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -148,11 +165,11 @@ ul.feature-circles {
             width: $feature-circle-diameter;
             color: $feature-circle-color;
             // background: $feature-circle-background-color;
-            border: solid 2px $feature-circle-color;
-            border-radius: 100%;
+            // border: solid 2px $feature-circle-color;
+            // border-radius: 100%;
             margin: 0 auto;
             font-size: $feature-circle-font-size;
-            padding: $feature-circle-padding;
+            // padding: $feature-circle-padding;
             &:hover {
                 text-decoration: none;
             }
@@ -162,10 +179,10 @@ ul.feature-circles {
         display: block;
         margin-bottom: 0;
         li {
-            margin: 0 auto $large-spacing;
-            &:last-child {
+            // margin: 0 auto $large-spacing;
+            // &:last-child {
                 margin-bottom: 0;
-            }
+            // }
         }
     }
 }
@@ -179,7 +196,68 @@ ul.feature-circles {
 .blurb {
     font-size: 1.3em;
     margin: 0 auto;
-    max-width: 600px;
+}
+.blurb-link {
+    text-align: center;
+}
+
+.callout {
+    margin: 45px 0;
+    padding: 45px 0;
+    background-color: $brand-color;
+    font-size: 1.3em;
+    color: $color-white;
+    .callout-content {
+        display: flex;
+        flex-direction: row;
+        .call-image-left {
+            flex-basis: 300px;
+        }
+        .callout-text-right {
+            flex: 1;
+            padding-left: 30px;
+        }
+        @include media-query($on-laptop) {
+            flex-direction: column;
+            .call-image-left {
+                text-align: center;
+                flex-basis: auto;
+                margin-bottom: 30px;
+                img {
+                    width: 300px;
+                    max-width: 100%;
+                }
+            }
+            .callout-text-right {
+                flex: 1;
+                padding-left: 0;
+            }
+        }
+    }
+    a {
+        color: $color-white;
+        text-decoration: underline;
+    }
+}
+
+.recent-news {
+    .news-items {
+        display: flex;
+        justify-content: space-between;
+        grid-gap: 30px;
+        .news-item {
+            border: solid 1px $divider-color;
+            padding: 30px 30px 46px;
+            flex: 1;
+            position: relative;
+            .read-more {
+                position: absolute;
+                bottom: 30px;
+                right: 30px;
+                margin-bottom: 0;
+            }
+        }
+    }
 }
 
 .image-words {
