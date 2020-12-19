@@ -257,6 +257,9 @@ ul.features {
                 margin-bottom: 0;
             }
         }
+        @include media-query($on-laptop) {
+            flex-direction: column;
+        }
     }
 }
 
