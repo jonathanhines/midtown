@@ -57,12 +57,12 @@ body.with-masthead {
 
 body.without-masthead {
     .site-header {
-        background: url(/assets/images/bricks-header-bg.jpg);
+        background: url(/assets/images/site/wood-header-bg.jpg);
         background-size: cover;
         background-position: top 50%;
         @include media-query($width-hamburger) {
             &.nav-open {
-                background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(/assets/images/bricks-header-bg.jpg);
+                background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(/assets/images/site/wood-header-bg.jpg);
                 background-size: cover;
                 background-position: top 50%;
             }
