@@ -15,7 +15,7 @@ As for **CONNECTION**, psychotherapy gains rely heavily on strong client-therapi
 
 Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with local businesses, faith groups, and community services, we help neighbours attend to psychological health at individual AND communal levels.
 
-## About Shelly Pavlić
+## About Shelly Pavlić {#shelly}
 
 <img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-left">
 
@@ -25,7 +25,7 @@ I’m a **[Registered Social Worker and Psychotherapist with the Ontario College
 
 I am a **Cognitive Behavioral Therapist (CBT)**, and integrate techniques from **Mindfulness Therapy, Dialectical Behavioral Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma informed care**. I earned my Bachelors of Art & Science from McMaster University, my Masters in Social Work from Wilfred Laurier University for which I received Social Science and Humanities Research Council, SSHRC, recognition, and have extensive postgraduate training and clinical experience in community and hospital treatment. 
 
-Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. By God’s grace and under the care of medical providers, friends and family, I recovered... slowly. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter.
+Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. By God’s grace and under the care of medical providers, friends and family, I recovered... slowly. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter. [ask me a question](mailto:shelly@midtowncounselling.ca)
 
 ## About the Midtown Community
 
