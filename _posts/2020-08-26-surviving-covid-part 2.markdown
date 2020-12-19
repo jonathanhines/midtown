@@ -11,4 +11,5 @@ custom_excerpt: false
 
 Part 2: Checking In - Check-in with yourself and your neighbours: How are you holding up? Maybe you’re tired. Maybe you’re scared. Maybe you’re relieved. Before we move into the next season, let’s ground ourselves in today and re-connect with those around us. 
 
-(LINK TO PAMPHLET)
+
+link 202008connects123

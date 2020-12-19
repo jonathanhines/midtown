@@ -13,3 +13,6 @@ Space is limited. Email cafepyrusoutpost@gmail.com to register
 This is a physically distanced outdoor event. Please bring your mask and lawn chair
 For more info, contact Café Pyrus or Midtown Counselling, info@midtowncounselling.ca
 This is a joint initiative of Café Pyrus, Midtown Counselling, and Sarah Pearson
+
+
+link 202010connects

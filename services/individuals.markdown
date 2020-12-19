@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Services For Individuals/Families
+title: Individual and Family Counselling in Kitchener-Waterloo
 permalink: /services/individuals
 ---
 
-Feel Better and Do Better. We're here to help. [Book Now](/contact/)
+Midtown Counselling offers in-person and online therapy for individuals and families. Whether you need one-on-one sessions to talk about issues affecting you or family sessions to resolve conflict at home, Midtown is here to help. Midtown Counselling helps clients in Kitchener & Waterloo face problems and move forward. Together we can build something new, respecting what is working well and changing what is not. [book now >](/contact/)
 
 <div class="service-item">
 <div class="service-item-title">
@@ -44,6 +44,8 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 
 </div>
 </div>
+
+---------------------------------
 
 ### Service Listing
 
@@ -94,17 +96,24 @@ $165* (85 mins)
 </div>
 </div>
 
-##### \*Preferred Rates and Subsidies
+---------------------------
+
+#### \*Preferred Rates and Subsidies
 
 <div class="listings">
 <div class="discount-listing" markdown="1">
 
-###### - Check with your employer, church or organization to see if you have access to our **Preferred Rates**. If not, submit a request to them or [contact us](/contact/). We specialize in helping organizations and businesses care for their people.
+- Check with your employer, church or organization to see if you have access to our **Preferred Rates**. If not, submit a request to them or [contact us](/contact/). We specialize in helping organizations and businesses care for their people.
 
 </div>
 <div class="discount-listing" markdown="1">
 
-###### - Are counselling fees are beyond your reach? Our maximum **Financial Subsidy** is 15%. If that's also out of reach, please speak with your doctor or [Here 24/7](https://here247.ca/) for help accessing alternatively funded services. 
+ - Are counselling fees are beyond your reach? Our maximum **Financial Subsidy** is 15%. If that's also out of reach, please speak with your doctor or [Here 24/7](https://here247.ca/) for help accessing alternatively funded services. 
 
 </div>
 </div>
+
+-------------
+
+
+["I'm ready for change" >](/contact/)

@@ -3,7 +3,7 @@ layout: post
 title:  "Clinic is Closed"
 date:   2020-03-25 00:08:00 -0400
 categories: news announcement
-custom_date: false
+custom_date: "March 25, 2020"
 custom_excerpt: false
 ---
 

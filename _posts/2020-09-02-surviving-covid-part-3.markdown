@@ -11,9 +11,11 @@ custom_excerpt: false
 
 Part 3 - Moving Forward. Wonder with open curiosity about what the future holds. What are you hoping for? What are you scared of? There’s no status quo in Covid, so we have the opportunity to set our intentions, individually and as a community, for ourselves and for the future.
 
-(LINK TO PAMPHLET)
 
 Space is limited. Email cafepyrusoutpost@gmail.com to register
 This is a physically distanced outdoor event. Please bring your mask and lawn chair
 For more info, contact Café Pyrus or Midtown Counselling, info@midtowncounselling.ca
 This is a joint initiative of Café Pyrus, Midtown Counselling, and Sarah Pearson
+
+
+link 202008connects123
