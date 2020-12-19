@@ -1,11 +1,6 @@
 
 var source = "https://spreadsheets.google.com/feeds/cells/1TXBlQVzJVVApWdJV-PvCMvLrg6OWW5LDZBpD76u7PbU/2/public/full?alt=json";
 
-var displayColumns = [
-    {key: "date", label: "Day"},
-    {key: "time", label: "Time"},
-    {key: "book", label: "Book Via SMS"},
-];
 var filtersID = "table-filters";
 var timeFiltersID = "time-filter";
 var dateFiltersID = "date-filter";
