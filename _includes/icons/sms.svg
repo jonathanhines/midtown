@@ -1,9 +1,0 @@
-<rect x="28.3" y="22.7" style="fill:none;" width="7.3" height="7.3"/>
-<rect x="13.8" y="22.7" style="fill:none;" width="7.3" height="7.3"/>
-<rect x="42.9" y="22.7" style="fill:none;" width="7.3" height="7.3"/>
-<polygon class="st0" points="13.7,22.7 13.7,30 21,30 21,22.7 13.8,22.7 "/>
-<rect x="28.3" y="22.6" class="st0" width="7.3" height="7.3"/>
-<polygon class="st0" points="13.7,22.7 13.7,30 21,30 21,22.7 13.8,22.7 "/>
-<path d="M59.2,0H4.7C2.1,0,0,2.1,0,4.7v29.8v13.4V64l12.3-11.4h46.9c2.6,0,4.7-2.1,4.7-4.7V4.7C63.9,2.1,61.8,0,59.2,0z M21,30h-7.3
-	v-7.3h0.1H21V30z M35.6,29.9h-7.3v-7.3h7.3V29.9z M50.1,29.9h-7.3v-7.3h7.3V29.9z"/>
-</svg>
