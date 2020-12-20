@@ -220,7 +220,7 @@ hr {
     .callout-content {
         display: flex;
         flex-direction: row;
-        .call-image-left {
+        .callout-image-left {
             flex-basis: 300px;
         }
         .callout-text-right {
@@ -236,7 +236,7 @@ hr {
         }
         @include media-query($on-laptop) {
             flex-direction: column;
-            .call-image-left {
+            .callout-image-left {
                 text-align: center;
                 flex-basis: auto;
                 margin-bottom: 30px;
@@ -279,7 +279,7 @@ hr {
         padding-bottom: 0;
         padding-top: 0;
         .callout-content {
-            .call-image-left {
+            .callout-image-left {
                 flex-basis: 400px;
                 padding-top: 15px;
                 img.show-narrow {
@@ -297,10 +297,11 @@ hr {
             padding: 45px 0;
             .callout-content {
                 flex-direction: column;
-                .call-image-left {
+                .callout-image-left {
                     text-align: center;
                     flex-basis: auto;
                     margin-bottom: 0;
+                    padding-top: 0;
                     img {
                         width: 300px;
                         max-width: 100%;
@@ -646,70 +647,9 @@ footer {
     }
 }
 
-.contact-images {
+.contact-header {
     margin-bottom: $large-spacing;
     max-width: 100%;
-    overflow: hidden;
-    text-align: center;
-    .image-container {
-        display: inline-block;
-        margin-right: 1%;
-        &:last-child {
-            margin-right: 0;
-        }
-        &.aspect3x4 {
-            width: 21.4%;
-            .resizer {
-                padding-bottom: 133.3333333333%;
-            }
-        }
-        &.aspect4x3 {
-            width: 38%;
-            .resizer {
-                padding-bottom: 75%;
-            }
-        }
-
-        .resizer {
-            position: relative;
-            height: 0;
-        }
-
-        .resizer img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-    }
-    img {
-        margin-right: $default-spacing;
-        &:last-child {
-            margin-right: 0;
-        }
-        &.aspect3x4 {
-            width: 33%
-        }
-        &.aspect4x3 {
-            width: 33%
-        }
-    }
-   
-    // @include media-query($on-palm) {
-    //     align-items: center;
-    //     flex-direction: column;
-    //     .aspect3x4,
-    //     .aspect4x3 {
-    //         flex-basis: auto;
-    //         max-width: 300px;
-    //         width: 100%;
-    //         margin-bottom: $default-spacing;
-    //     }
-    //     img {
-    //         margin-right: 0;
-    //     }
-    // }
 }
 .contact-info {
     padding-right: $default-spacing;

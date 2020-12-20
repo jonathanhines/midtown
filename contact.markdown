@@ -3,7 +3,7 @@ layout: page
 title: Contact US
 permalink: /contact/
 ---
-<div class="contact-images"><div class="image-container aspect3x4"><div class="resizer"><img src="/assets/images/couch.jpg"></div></div><div class="image-container aspect4x3"><div class="resizer"><img src="/assets/images/house.jpg"></div></div><div class="image-container aspect4x3"><div class="resizer"><img src="/assets/images/table.jpg"></div></div></div>
+<img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
 
 <div class="row">
 <div class="col contact-info" markdown="1">
