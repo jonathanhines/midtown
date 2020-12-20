@@ -38,6 +38,17 @@ Midtown Counselling is part of our community. Our clinic is conveniently located
 </div>
 </div>
 
+
+<div class="wrapper blurb" style="max-width: 500px;" markdown="1">
+
+Midtown Counselling specializes in
+- [Individual and Family Counselling >](/services/individuals)
+- [Businesses and Organizations >](/services/businesses)
+- [Motor Vehicle Accident Rehabilitation >](/services/mva)
+
+</div>
+
+
 <div class="callout">
 <div class="wrapper callout-content">
 <div class="call-image-left">
@@ -53,16 +64,7 @@ Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensi
 </div>
 </div>
 
-<div class="wrapper" markdown="1">
 
-Midtown Counselling specializes in 
-- [Individual and Family Counselling >](/services/individuals) 
-- [Businesses and Organizations >](/services/businesses)
-- [Motor Vehicle Accident Rehabilitation >](/services/mva)
-
-</div>
-
-<hr class="content-divider">
 
 <div class="recent-news wrapper">
 <h2>Recent News</h2>
