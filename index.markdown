@@ -90,7 +90,7 @@ Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensi
 <h3>Midtown Counselling continues Video, Phone and In-Person sessions</h3>
 <div class="content" markdown="1">
 
-**Midtown Community Connects** Midtown counselling is proud to announce the continuation of this weekly public community group, newly under full peer-led direction
+**Midtown Counselling continues Video, Phone and In-Person sessions.** Services continue via video-conference (Doxy.Me), phone, and distanced outdoor in-person visits where safety can be accommodated (travel expenses apply). Our clinic's physical doors will re-open as soon as community health circumstances allow.
 
 [read more](/news/event/2020/11/30/Continues-Video.html)
 {: class="read-more"}
