@@ -21,9 +21,11 @@
 title: Midtown Counselling
 email: info@midtowncounselling.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Living with a dark, stormy cloud over your head is NO way to live. If your cloud is taking
+  away from your personal life or career, you may feel burdened, alone or misunderstood.
+  It doesn’t have to be that way. Psychotherapy techniques like Cognitive Behavioural
+  Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression and stress, restore
+  confidence, foster effective relationships, and unlock personal potential.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://midtowncounselling.ca" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: shellypavlic
