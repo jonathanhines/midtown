@@ -155,20 +155,22 @@ ul.features {
     margin: 0;
     padding: 0;
     display: flex;
-    grid-gap: 30px;
-    justify-content: space-between;
+    grid-gap: 60px;
+    justify-content: space-evenly;
     margin-bottom: $large-spacing;
     color: $brand-dark;
     li {
         flex: 1;
         max-width: 300px;
         text-align: center;
-        font-size: 1.3em;
+        font-size: 1.5rem;
         a {
             img {
-                max-width: 100%;
+                width: 70%;
+                max-width: 180px;
             }
             span {
+                display: block;
                 text-decoration: underline;
                 color: $brand-dark;
             }
@@ -184,6 +186,7 @@ ul.features {
         flex-direction: column;
         margin-bottom: 0;
         align-items: center;
+        grid-gap: 30px;
         li {
             margin-bottom: 0;
         }
