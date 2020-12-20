@@ -271,6 +271,51 @@ hr {
             }
         }
     }
+
+    &.flush-image {
+        padding-bottom: 0;
+        padding-top: 0;
+        .callout-content {
+            .call-image-left {
+                flex-basis: 400px;
+                padding-top: 15px;
+                img.show-narrow {
+                    display: none;
+                }
+                img.show-wide {
+                    display: block;
+                }
+            }
+             .callout-text-right {
+                padding: 30px 0px 30px;
+            }
+        }
+        @include media-query($on-laptop) {
+            padding: 45px 0;
+            .callout-content {
+                flex-direction: column;
+                .call-image-left {
+                    text-align: center;
+                    flex-basis: auto;
+                    margin-bottom: 0;
+                    img {
+                        width: 300px;
+                        max-width: 100%;
+                    }
+                    img.show-narrow {
+                        display: inline;
+                    }
+                    img.show-wide {
+                        display: none;
+                    }
+                }
+                .callout-text-right {
+                    padding-left: 0;
+                    padding-bottom: 0;
+                }
+            }
+        }
+    }
 }
 
 .callout-link {

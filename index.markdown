@@ -23,10 +23,11 @@ Living with a dark, stormy cloud over your head is NO way to live. If your cloud
 </div>
 </div>
 
-<div class="callout">
+<div class="callout flush-image">
 <div class="wrapper callout-content">
 <div class="call-image-left">
-<img src="/assets/images/house-front.jpg" title="the clinic" alt="a picture of a brick house, the Midtown Counselling clinic.">
+<img src="/assets/images/house_c.jpg" class="show-wide" title="the clinic" alt="a picture of a brick house, the Midtown Counselling clinic.">
+<img src="/assets/images/house-front.jpg" class="show-narrow" title="the clinic" alt="a picture of a brick house, the Midtown Counselling clinic.">
 </div>
 <div class="callout-text-right" markdown="1">
 
