@@ -150,48 +150,42 @@ a.link-button {
     }
 }
 
-$feature-circle-diameter: 300px;
-$feature-circle-font-size: 1.7em;
-$feature-circle-padding: 40px;
-$feature-circle-background-color: $color-peach;
-$feature-circle-color: $brand-dark;
 ul.features {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-around;
+    grid-gap: 30px;
+    justify-content: space-between;
     margin-bottom: $large-spacing;
+    color: $brand-dark;
     li {
+        flex: 1;
+        max-width: 300px;
+        text-align: center;
+        font-size: 1.3em;
         a {
-            box-sizing: border-box;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            max-width: $feature-circle-diameter;
-            color: $feature-circle-color;
-            // background: $feature-circle-background-color;
-            // border: solid 2px $feature-circle-color;
-            // border-radius: 100%;
-            margin: 0 auto;
-            font-size: $feature-circle-font-size;
             img {
                 max-width: 100%;
             }
-            // padding: $feature-circle-padding;
+            span {
+                text-decoration: underline;
+                color: $brand-dark;
+            }
             &:hover {
                 text-decoration: none;
+                span {
+                    text-decoration: none;
+                }
             }
         }
     }
     @include media-query($on-laptop) {
-        display: block;
+        flex-direction: column;
         margin-bottom: 0;
+        align-items: center;
         li {
-            // margin: 0 auto $large-spacing;
-            // &:last-child {
-                margin-bottom: 0;
-            // }
+            margin-bottom: 0;
         }
     }
 }

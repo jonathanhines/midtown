@@ -9,9 +9,9 @@ masthead_cta_text: book now
 ---
 <div class="wrapper">
 <ul class="features">
-    <li><a href="/services/individuals/#stress"><img src="/assets/images/site/homepage-highlights-depression.png" alt="Depression, Anxiety, Stress"></a></li>
-    <li><a href="/services/individuals/#relationships"><img src="/assets/images/site/homepage-highlights-family.png" alt="Family, Relationships"></a></li>
-    <li><a href="/services/individuals/#wellness"><img src="/assets/images/site/homepage-highlights-wellness.png" alt="Personal Wellness"></a></li>
+    <li><a href="/services/individuals/#stress"><img src="/assets/images/site/homepage-icons-depression.svg" alt="Depression, Anxiety, Stress"><span>Depression, Anxiety, Stress</span></a></li>
+    <li><a href="/services/individuals/#relationships"><img src="/assets/images/site/homepage-icons-family.svg" alt="Family, Relationships"><span>Family, Relationships</span></a></li>
+    <li><a href="/services/individuals/#wellness"><img src="/assets/images/site/homepage-icons-wellness.svg" alt="Personal Wellness"><span>Personal Wellness</span></a></li>
 </ul>
 
 <hr class="content-divider">
