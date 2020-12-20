@@ -849,3 +849,21 @@ footer {
         padding-top: $large-spacing;
     }
 }
+
+a.download-thumbnail {
+    display: inline-flex;
+    flex-direction: column;
+    img {
+        border: solid 1px $brand-color;
+        max-width: 150px;
+        margin-top: $large-spacing;
+    }
+    :hover {
+        box-shadow: 0 0 2px 0 $brand-color;
+    }
+    span {
+        display: block;
+        margin-top: $default-spacing;
+        text-align: center;
+    }
+}
