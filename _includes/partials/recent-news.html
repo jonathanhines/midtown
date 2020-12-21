@@ -4,10 +4,6 @@
     <div class="news-items">
         {%- for post in site.posts limit:3 -%}
         <div class="news-item">
-            <h3><a href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">
                 {%- if post.custom_date -%}
@@ -16,6 +12,10 @@
                     {{ post.date | date: date_format }}
                 {%- endif -%}
             </span>
+            <h3><a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
             <div class="content">
                 {%- if post.custom_excerpt -%}
                     {{ post.custom_excerpt | markdownify }}

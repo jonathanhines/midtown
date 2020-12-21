@@ -184,7 +184,6 @@ ul.features {
     }
     @include media-query($on-laptop) {
         flex-direction: column;
-        margin-bottom: 0;
         align-items: center;
         grid-gap: 30px;
         li {
@@ -230,6 +229,7 @@ hr {
         background-color: $color-cta-background;
         color: $color-white;
         text-decoration: none;
+        margin-top: $large-spacing;
         &:hover,
         &:focus,
         &:active {
@@ -396,13 +396,11 @@ hr {
         grid-gap: 30px;
         .news-item {
             h3 {
-                margin-bottom: 0;
                 a {
                     color: inherit;
                 }
             }
             .post-meta {
-                margin-bottom: $default-spacing;
                 display: block;
             }
             background-color: $color-white;

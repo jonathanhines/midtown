@@ -5,7 +5,7 @@ permalink: /about/inclusion/
 class: about
 ---
 
-<img src="assets/images/hiking.jpg" alt="" class="image-float float-right">
+<img src="/assets/images/hiking.jpg" alt="" class="image-float float-right">
 
 We look forward to the day when full inclusion is an assumption rather than an exception. Till then, it bears saying that Midtown Counselling affirms that all peoples, regardless of their sexual orientation, gendre, race, culture, religion and faith are to be welcomed and treated with dignity and respect.
 
