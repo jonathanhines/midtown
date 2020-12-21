@@ -2,6 +2,8 @@
 layout: page
 title: Business and Organizational Wellness Programming in Kitchener-Waterloo
 permalink: /services/businesses
+description: "Midtown Counselling supports wellness in businesses and organizations in Kitchener-Waterloo. Perhaps you’re looking to boost Mental Health Resilience among your staff, or perhaps some members of your team need individual support, help navigating community services, support through a crisis, loss or trauma, or perhaps you’d like professional guidance understanding your group’s needs."
+image: "/assets/images/family-window.jpg"
 ---
 Midtown Counselling supports wellness in businesses and organizations in Kitchener-Waterloo. Perhaps you’re looking to boost Mental Health Resilience among your staff, or perhaps some members of your team need individual support, help navigating community services, support through a crisis, loss or trauma, or perhaps you’d like professional guidance understanding your group’s needs. Whatever your circumstances, we’re here to support you. Send us an [email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335).
 

@@ -2,6 +2,8 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+description: "To book your Initial Phone Consultation, send us an email at info@midtowncounselling.ca or call or text 226-313-3335 with your name, contact details and your choice of available consult times."
+image: "/assets/images/contact-header.jpg"
 ---
 <img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
 

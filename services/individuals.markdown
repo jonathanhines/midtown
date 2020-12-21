@@ -2,6 +2,8 @@
 layout: page
 title: Individual and Family Counselling in Kitchener-Waterloo
 permalink: /services/individuals
+description: "Midtown Counselling offers in-person and online therapy for individuals and families. Whether you need one-on-one sessions to talk about issues affecting you or family sessions to resolve conflict at home, Midtown is here to help."
+image: "/assets/images/rainy-window.jpg"
 ---
 
 Midtown Counselling offers in-person and online therapy for individuals and families. Whether you need one-on-one sessions to talk about issues affecting you or family sessions to resolve conflict at home, Midtown is here to help. Midtown Counselling helps clients in Kitchener & Waterloo face problems and move forward. Together we can build something new, respecting what is working well and changing what is not. [Schedule your initial consultation now](/contact/#booknow).

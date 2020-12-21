@@ -6,6 +6,8 @@ background: /assets/images/two-hands.jpg
 masthead_text: Friendly  Professional  Confidential <br>Psychotherapy in the Heart of Kitchener-Waterloo
 masthead_cta_link: /contact/#booknow
 masthead_cta_text: book now
+description: "Living with a dark, stormy cloud over your head is NO way to live. If your cloud is taking away from your personal life or career, you may feel burdened, alone or misunderstood. It doesn't have to be that way. Psychotherapy techniques like Cognitive Behavioural Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression and stress, restore confidence, foster effective relationships, and unlock personal potential."
+image: "/assets/images/two-hands.jpg"
 ---
 <div class="wrapper">
 <ul class="features">

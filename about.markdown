@@ -3,6 +3,8 @@ layout: page
 title: About Us
 permalink: /about/
 class: about
+description: "We combine the science of psycho-social health with the healing capacity of connection and the resourcefulness of communities."
+image: "/assets/images/hands-couch.jpg"
 ---
 
 <img src="/assets/images/hands-couch.jpg" alt="" class="image-float float-right">

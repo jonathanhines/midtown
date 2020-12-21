@@ -2,6 +2,8 @@
 layout: page
 title: Services For Motor Vehicle Accident Clients
 permalink: /services/mva
+description: "If you’ve been in a Motor Vehicle Accident (MVA) and are experiencing Anxiety, Depression and/or Post-Traumatic Stress Disorder (PTSD), you don’t have to journey alone. Our caring and skilled Social Workers / Psychotherapists will walk with you. We'll help you regain a sense of control."
+image: "/assets/images/sore.jpg"
 ---
 
 If you’ve been in a Motor Vehicle Accident (MVA) and are experiencing Anxiety, Depression and/or Post-Traumatic Stress Disorder (PTSD), you don’t have to journey alone. Our caring and skilled Social Workers / Psychotherapists will walk with you. We'll help you regain a sense of control. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to find out how Midtown Counselling can support your recovery.

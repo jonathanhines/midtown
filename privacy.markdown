@@ -2,6 +2,8 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
+description: "Midtown Counselling privacy policy."
+image: "/assets/images/hands-couch.jpg"
 ---
 
 Midtown Counselling takes several measures to protect people’s privacy and confidentiality.

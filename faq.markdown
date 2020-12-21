@@ -3,6 +3,8 @@ layout: page
 title: Frequently Asked Questions
 permalink: /faq/
 class: faq
+description: "Frequently asked questions regarding Midtown Counselling"
+image: "/assets/images/two-hands.jpg"
 ---
 
 <img src="/assets/images/two-hands.jpg" alt="" class="image-float float-right hide-mobile">
