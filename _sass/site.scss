@@ -124,8 +124,8 @@ body.without-masthead {
 a.link-button {
     display: inline-block;
     border-radius: 5px;
-    border: solid 1px $brand-color;
-    background-color: $brand-color;
+    border: solid 1px $link-button-color;
+    background-color: $link-button-color;
     color: $color-white;
     padding: 5px $default-spacing;
     font-size: 1.3rem;
@@ -133,17 +133,17 @@ a.link-button {
     &:focus,
     &:active {
         background-color: $color-white;
-        color: $brand-color;
+        color: $link-button-color;
         text-decoration: none;
     }
     &.inverted {
         border: solid 1px $color-white;
         background-color: $color-white;
-        color: $brand-color;
+        color: $link-button-color;
         &:hover,
         &:focus,
         &:active {
-            background-color: $brand-color;
+            background-color: $link-button-color;
             color: $color-white;
             border: solid 1px $color-white;
         }
@@ -296,11 +296,11 @@ hr {
             padding: 5px $default-spacing;
             border: solid 1px $color-white;
             background-color: $color-white;
-            color: $brand-color;
+            color: $link-button-color;
             &:hover,
             &:focus,
             &:active {
-                background-color: $brand-color;
+                background-color: $link-button-color;
                 color: $color-white;
                 border: solid 1px $color-white;
             }
@@ -361,14 +361,14 @@ hr {
                 .callout-text-right {
                     color: $text-color;
                     a.link-button {
-                        border: solid 1px $brand-color;
-                        background-color: $brand-color;
+                        border: solid 1px $link-button-color;
+                        background-color: $link-button-color;
                         color: $color-white;
                         &:hover,
                         &:focus,
                         &:active {
                             background-color: $color-white;
-                            color: $brand-color;
+                            color: $link-button-color;
                         }
                     }
                 }
