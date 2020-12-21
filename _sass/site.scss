@@ -82,7 +82,7 @@ body.without-masthead {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: $large-spacing;
+    margin-bottom: 45px;
     .head-text {
         font-size: 1.8rem;
         background-color: rgba(0,0,0,0.5);
@@ -157,7 +157,7 @@ ul.features {
     display: flex;
     grid-gap: 60px;
     justify-content: space-evenly;
-    margin-bottom: $large-spacing;
+    margin-bottom: 45px;
     color: $brand-dark;
     li {
         flex: 1;
@@ -206,7 +206,39 @@ hr {
 .blurb {
     font-size: 1.3em;
     margin: 0 auto;
+    &.color-bg {
+        background-color: $color-cta-background;
+        color: $color-white;
+    }
 }
+.color-bg {
+    background-color: $color-cta-background;
+    color: $color-white;
+    .blurb {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    a {
+        color: $color-white;
+        text-decoration: underline;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    a.link-button {
+        border: solid 1px $color-white;
+        background-color: $color-cta-background;
+        color: $color-white;
+        text-decoration: none;
+        &:hover,
+        &:focus,
+        &:active {
+            background-color: $color-white;
+            color: $color-cta-background;
+        }
+    }
+}
+
 .blurb-link {
     text-align: center;
 }
@@ -317,6 +349,36 @@ hr {
                     padding-left: 0;
                     padding-bottom: 0;
                 }
+            }
+        }
+
+        &.white-bg {
+            background-color: $color-white;
+            margin: 0;
+            .callout-content {
+                .callout-image-left {
+                }
+                .callout-text-right {
+                    color: $text-color;
+                    a.link-button {
+                        border: solid 1px $brand-color;
+                        background-color: $brand-color;
+                        color: $color-white;
+                        &:hover,
+                        &:focus,
+                        &:active {
+                            background-color: $color-white;
+                            color: $brand-color;
+                        }
+                    }
+                }
+            }
+            @include media-query($on-laptop) {
+                padding: 45px 0;
+            }
+            &.divide-bottom {
+                border-bottom: solid 1px $divider-color;
+                margin-bottom: 45px;
             }
         }
     }
