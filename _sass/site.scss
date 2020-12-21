@@ -852,9 +852,11 @@ footer {
     font-size: 1em;
 }
 .filters {
-    padding: 0 0 $default-spacing;
+    padding: 0 0 ($default-spacing - 5px);
     label {
         margin-right: $default-spacing;
+        margin-bottom: 5px;
+        display: inline-block;
         .custom-select {
             margin-left: $small-spacing;
         }
