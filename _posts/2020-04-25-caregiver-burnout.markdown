@@ -9,4 +9,7 @@ custom_excerpt: "Clergy Caregiver Burnout: A Workshop for KW Church Leaders"
 
 **Clergy Caregiver Burnout: A Workshop for KW Church Leaders**, Speaker: Shelly Pavlic, hosted by City Watch. 
 
-(LINK:202004clergyburnout)
+<a href="https://drive.google.com/file/d/1fytDLCNBidNjZ3mOuW9lqzwxkAMoDc8S/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/202004clergyburnout-1.jpg">
+<span>Download Handout</span>
+</a>

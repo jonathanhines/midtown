@@ -14,5 +14,7 @@ This is a physically distanced outdoor event. Please bring your mask and lawn ch
 For more info, contact Café Pyrus or Midtown Counselling, info@midtowncounselling.ca
 This is a joint initiative of Café Pyrus, Midtown Counselling, and Sarah Pearson
 
-
-link 202010connects
+<a href="https://drive.google.com/file/d/1OR3-ZFwQeSZ44ZnP2m5hK1M9FwnU2buq/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/202010connects.jpg">
+<span>Download Handout</span>
+</a>
