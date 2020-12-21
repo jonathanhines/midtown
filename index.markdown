@@ -4,7 +4,7 @@ title: Home
 permalink: /
 background: /assets/images/two-hands.jpg
 masthead_text: Friendly  Professional  Confidential <br>Psychotherapy in the Heart of Kitchener-Waterloo
-masthead_cta_link: /contact
+masthead_cta_link: /contact/#booknow
 masthead_cta_text: book now
 ---
 <div class="wrapper">
@@ -19,7 +19,7 @@ masthead_cta_text: book now
 <div class="blurb" markdown="1">
 Living with a dark, stormy cloud over your head is NO way to live. If your cloud is taking away from your personal life or career, you may feel burdened, alone or misunderstood. It doesn't have to be that way. Psychotherapy techniques like Cognitive Behavioural Therapy (CBT) and Mindfulness Therapy relieve anxiety, depression and stress, restore confidence, foster effective relationships, and unlock personal potential.
 
-<div class="blurb-link"><a class="link-button" href="/contact">book now</a></div>
+<div class="blurb-link"><a class="link-button" href="/contact/#booknow">book now</a></div>
 </div>
 </div>
 
@@ -43,9 +43,9 @@ Midtown Counselling is part of our community. Our clinic is conveniently located
 <div class="wrapper blurb" style="max-width: 500px;" markdown="1">
 
 Midtown Counselling specializes in
-- [Individual and Family Counselling >](/services/individuals)
-- [Businesses and Organizations >](/services/businesses)
-- [Motor Vehicle Accident Rehabilitation >](/services/mva)
+- [Individual and Family Counselling ](/services/individuals)
+- [Businesses and Organizations ](/services/businesses)
+- [Motor Vehicle Accident Rehabilitation ](/services/mva)
 
 </div>
 

@@ -25,7 +25,7 @@ I’m a **[Registered Social Worker and Psychotherapist with the Ontario College
 
 I am a **Cognitive Behavioral Therapist (CBT)**, and integrate techniques from **Mindfulness Therapy, Dialectical Behavioral Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma informed care**. I earned my Bachelors of Art & Science from McMaster University, my Masters in Social Work from Wilfred Laurier University for which I received Social Science and Humanities Research Council, SSHRC, recognition, and have extensive postgraduate training and clinical experience in community and hospital treatment. 
 
-Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. By God’s grace and under the care of medical providers, friends and family, I recovered... slowly. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter. [ask me a question](mailto:shelly@midtowncounselling.ca)
+Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. By God’s grace and under the care of medical providers, friends and family, I recovered... slowly. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter. Is there something else you'd like to know about me? [Just ask](mailto:shelly@midtowncounselling.ca).
 
 ## About the Midtown Community
 
@@ -33,6 +33,6 @@ Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction 
 
 Collaborations include running community events, awareness initiatives leadership forums, and offering no-charge consultations to clergy and employers, and individual services to those in need.
 
-While there are an unlimited number of opportunities for creative partnerships in Kitchener-Waterloo, we have retained our unique neighbourhood-specific commitment. If you’re looking for help building community resilience in the KW Midtown area, [let's talk >](/contact)!
+While there are an unlimited number of opportunities for creative partnerships in Kitchener-Waterloo, we have retained our unique neighbourhood-specific commitment. If you’re looking for help building community resilience in the KW Midtown area, [contact Shelly](mailto:shelly@midtowncounselling.ca).
 
-<div class="callout-link"><a class="link-button" href="/contact/">I'm interested. I'd like to find out more.</a></div>
+<div class="callout-link"><a class="link-button" href="/contact/">I'd like to know more</a></div>

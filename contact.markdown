@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact US
+title: Contact Us
 permalink: /contact/
 ---
 <img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
@@ -8,7 +8,7 @@ permalink: /contact/
 <div class="row">
 <div class="col contact-info" markdown="1">
 
-## Midtown Counselling
+## Midtown Counselling {#contactinfo}
 
 **Monday to Friday, 7:30 am - 8:00 pm, by appointment**
 
@@ -47,18 +47,20 @@ Motor Vehicle Accident Rehabilitation Services
 </div>
 </div>
 
-### Book now
+### Book now {#booknow}
 
 <div class="alert">
 During Covid 19, most appointments are being provided by video or phone session. In person, in-home appointments are available on an as-needed basis
 </div>
 
-To book your Initial Phone Consultation, [send us an email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) with your name, contact details and your choice of available consult times. Before contacting us please see our [Privacy Statement](/privacy).
+To book your Initial Phone Consultation, send us an [email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) with your name, contact details and your choice of available consult times. Before contacting us please review our [Privacy Statement](/privacy).
 
 {% include partials/available-year.html %}
 
-To attend your scheduled video appointment, [click here >](/session).
+--------
+
+To attend your scheduled video appointment, [click here](/session).
 
 --------
 
-For additional help booking your first appointment, [click here >](/contact)
+For additional help booking your first appointment, please [email](mailto:support@midtowncounselling.ca) or [call](tel:2263133335) us.

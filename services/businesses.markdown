@@ -3,7 +3,7 @@ layout: page
 title: Business and Organizational Wellness Programming in Kitchener-Waterloo
 permalink: /services/businesses
 ---
-Midtown Counselling supports wellness in businesses and organizations in Kitchener-Waterloo. Perhaps you’re looking to boost Mental Health Resilience among your staff, or perhaps some members of your team need individual support, help navigating community services, support through a crisis, loss or trauma, or perhaps you’d like professional guidance understanding your group’s needs. Whatever your circumstances, we’re here to support you. ([contact us >](/contact/))
+Midtown Counselling supports wellness in businesses and organizations in Kitchener-Waterloo. Perhaps you’re looking to boost Mental Health Resilience among your staff, or perhaps some members of your team need individual support, help navigating community services, support through a crisis, loss or trauma, or perhaps you’d like professional guidance understanding your group’s needs. Whatever your circumstances, we’re here to support you. Send us an [email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335).
 
 <div class="service-item">
 <div class="service-item-title">
@@ -13,7 +13,7 @@ Midtown Counselling supports wellness in businesses and organizations in Kitchen
 
 ### Onsite Wellness Services {#wellness}
 
-Midtown Counselling supports local organizations with onsite, private wellness services in a cost-effective way. A member of our team comes to your place of work to transform a private space into a stress-reducing, resilience-fostering zone. ([contact us >](/contact/))
+Midtown Counselling supports local organizations with onsite, private wellness services in a cost-effective way. A member of our team comes to your place of work to transform a private space into a stress-reducing, resilience-fostering zone. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) for more information.
 
 </div>
 </div>
@@ -26,11 +26,11 @@ Midtown Counselling supports local organizations with onsite, private wellness s
 
 ### Preferred Partnership {#preferred}
 
-If your business is located near the centres of Kitchener or Waterloo and you are looking to increase supports for your employees or members, we can help. Chances are you care deeply for their health and wellness. We do too. Ask us about how to become a preferred partner. ([contact us >](/contact/))
+If your business is located near the centres of Kitchener or Waterloo and you are looking to increase supports for your employees or members, we can help. Chances are you care deeply for their health and wellness. We do too. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to request a preferred partnership.
 
 </div>
 </div>
 
 ___________
 
-<div class="callout-link"><a class="link-button" href="/contact/">My business needs help</a></div>
+<div class="callout-link"><a class="link-button" href="/contact/#contactinfo">My business needs help</a></div>

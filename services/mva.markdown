@@ -4,7 +4,7 @@ title: Services For Motor Vehicle Accident Clients
 permalink: /services/mva
 ---
 
-If you’ve been in a Motor Vehicle Accident (MVA) and are experiencing Anxiety, Depression and/or Post-Traumatic Stress Disorder (PTSD), you don’t have to journey alone. Our caring and skilled Social Workers / Psychotherapists will walk with you. We'll help you regain a sense of control.
+If you’ve been in a Motor Vehicle Accident (MVA) and are experiencing Anxiety, Depression and/or Post-Traumatic Stress Disorder (PTSD), you don’t have to journey alone. Our caring and skilled Social Workers / Psychotherapists will walk with you. We'll help you regain a sense of control. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to find out how Midtown Counselling can support your recovery.
 
 <div class="service-item">
 <div class="service-item-title">
@@ -14,7 +14,7 @@ If you’ve been in a Motor Vehicle Accident (MVA) and are experiencing Anxiety,
 
 ### Social Work Assessment & Treatment Planning (OCF-18s) {#assessment}
 
-You'll receive in-home or in-clinic assessments of your bio-psycho-social functioning before and after the accident, identifying areas of related loss and psychological injury and their implications on your particular circumstances. You'll also receive a customized treatment plan toward restoring productive and meaningful living. 
+You'll receive in-home or in-clinic assessments of your bio-psycho-social functioning before and after the accident, identifying areas of related loss and psychological injury and their implications on your particular circumstances. You'll also receive a customized treatment plan toward restoring productive and meaningful living. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to get started.
 
 </div>
 </div>
@@ -27,11 +27,11 @@ You'll receive in-home or in-clinic assessments of your bio-psycho-social functi
 
 ### Counselling & Psychotherapy {#counselling}
 
-You'll receive in-home or in-clinic social work and psychotherapy interventions (e.g. Cognitive Behavioural Therapy/CBT, Mindfulness, and Motivational Interviewing) toward reducing mental health symptoms, managing pain, and improving functionality at home, work and community. Services include progress evaluations, coordinated planning with your providers, lawyer, and insurance agency, and MVA-specific reporting. 
+You'll receive in-home or in-clinic social work and psychotherapy interventions (e.g. Cognitive Behavioural Therapy/CBT, Mindfulness, and Motivational Interviewing) toward reducing mental health symptoms, managing pain, and improving functionality at home, work and community. Services include progress evaluations, coordinated planning with your providers, lawyer, and insurance agency, and MVA-specific reporting. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to get started.
 
 </div>
 </div>
 
 -----------
 
-<div class="callout-link"><a class="link-button" href="/contact/">I need help with my recovery</a></div>
+<div class="callout-link"><a class="link-button" href="/contact/#contactinfo">I've been in an accident and need help</a></div>

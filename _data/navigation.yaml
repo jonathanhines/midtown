@@ -1,14 +1,14 @@
 
 #- name: Home
 #  link: /
-- name: Psychotherapy Services
+- name: Counselling Services
   link: /services/
   subpages:
-    - name: Individuals/Families
+    - name: Individuals and Families
       link: /services/individuals
-    - name: Businesses/Organizations
+    - name: Businesses and Organizations
       link: /services/businesses
-    - name: Motor Vehicle Accidents (MVA)
+    - name: Motor Vehicle Accident (MVA) Rehabilitation
       link: /services/mva  
 - name: About Us
   link: /about/
