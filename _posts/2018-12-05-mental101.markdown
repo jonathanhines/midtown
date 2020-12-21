@@ -4,7 +4,7 @@ title: "Mental Health 101"
 date: 2018-12-05 00:08:00 -0400
 categories: news event
 custom_date: "December 5, 2018"
-custom_excerpt: "**Mental Health 101"
+custom_excerpt: "**Mental Health 101**"
 ---
 
 **Mental Health 101; Community Dinner Topic**, Speaker: Shelly Pavlic, hosted by Highland Baptist Church as part of their Community Dinner Talking Series. All are welcome. Free meal.
