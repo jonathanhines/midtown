@@ -59,7 +59,7 @@ Midtown Counselling specializes in
 </div>
 <div class="callout-text-right" markdown="1">
 
-Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensive training in complex psychological health & wellness. Shelly specializes in Cognitive Behavioral Therapist (CBT), and integrate techniques from Mindfulness Therapy, Dialectical Behavioral Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma-informed care.
+Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensive training in complex psychological health & wellness. Shelly specializes in Cognitive Behavioural Therapist (CBT), and integrate techniques from Mindfulness Therapy, Dialectical Behavioural Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma-informed care.
 
 <div class="callout-link"><a href="/about/#shelly" class="link-button inverted">about Shelly</a></div>
 
