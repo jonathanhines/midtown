@@ -13,11 +13,11 @@ Our caring and skilled Social Workers / Psychotherapists meet you where you are 
 
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/sore.jpg" alt="">
+<img src="/assets/images/sore.jpg" alt="" id="assessment">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Social Work Assessment & Treatment Planning (OCF-18s) {#assessment}
+### Social Work Assessment & Treatment Planning (OCF-18s)
 
 You'll receive in-home or in-clinic assessments of your bio-psycho-social functioning before and after the accident, identifying areas of related loss and psychological injury and their implications on your particular circumstances. You'll also receive a customized treatment plan toward restoring productive and meaningful living. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to get started.
 
@@ -29,11 +29,11 @@ $128-165/hour*
 
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/two-hands.jpg" alt="">
+<img src="/assets/images/two-hands.jpg" alt="" id="counselling">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Counselling & Psychotherapy {#counselling}
+### Counselling & Psychotherapy
 
 You'll receive in-home or in-clinic social work and psychotherapy interventions (e.g. Cognitive Behavioural Therapy/CBT, Mindfulness, and Motivational Interviewing) toward reducing mental health symptoms, managing pain, and improving functionality at home, work and community. Services include progress evaluations, coordinated planning with your providers, lawyer, and insurance agency, and MVA-specific reporting. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to get started.
 

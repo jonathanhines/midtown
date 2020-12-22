@@ -12,11 +12,11 @@ Whatever your circumstances, we’re here to support you.
 
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/family-window.jpg" alt="">
+<img src="/assets/images/family-window.jpg" alt="" id="wellness">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Onsite Wellness Services {#wellness}
+### Onsite Wellness Services
 
 Midtown Counselling supports local organizations with onsite, private wellness services in a cost-effective way. A member of our team comes to your place of work to transform a private space into a stress-reducing, resilience-fostering zone. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) for more information and pricing.
 
@@ -25,11 +25,11 @@ Midtown Counselling supports local organizations with onsite, private wellness s
 
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/work.jpg" alt="">
+<img src="/assets/images/work.jpg" alt="" id="preferred">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Preferred Partnership {#preferred}
+### Preferred Partnership
 
 If your business is located near the centre of Kitchener or Waterloo and you are looking to increase supports for your employees or members, we can help. Chances are you care deeply for their health and wellness. We do too. [Email](mailto:admin@midtowncounselling.ca) or [call](tel:2263133335) to start your preferred partnership.
 
