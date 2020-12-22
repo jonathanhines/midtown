@@ -16,3 +16,7 @@ function updateNavigationHeader() {
         headerElement.classList.remove("nav-open");
     }
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById("nav-trigger").checked = false;
+});
