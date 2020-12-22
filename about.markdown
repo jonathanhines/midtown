@@ -37,4 +37,6 @@ Collaborations include running community events, awareness initiatives leadershi
 
 While there are an unlimited number of opportunities for creative partnerships in Kitchener-Waterloo, we have retained our unique neighbourhood-specific commitment. If you’re looking for help building community resilience in the KW Midtown area, [contact Shelly](mailto:shelly@midtowncounselling.ca).
 
+On the topic of identity and geography, this community is situated on the Haldimand Tract, land that was promised to the Haudenosaunee of the Six Nations of the Grand River, and are within the territory of the Neutral, Anishinaabe, and Haudenosaunee peoples.
+
 <div class="callout-link"><a class="link-button" href="/contact/">I'd like to know more</a></div>

@@ -6,41 +6,46 @@ description: "Midtown Counselling offers in-person and online therapy for indivi
 image: "/assets/images/rainy-window.jpg"
 ---
 
-Midtown Counselling offers in-person and online therapy for individuals and families. Whether you need one-on-one sessions to talk about issues affecting you or family sessions to resolve conflict at home, Midtown is here to help. Midtown Counselling helps clients in Kitchener & Waterloo face problems and move forward. Together we can build something new, respecting what is working well and changing what is not. [Schedule your initial consultation now](/contact/#booknow).
+Midtown Counselling offers in-person and online therapy for individuals and families in the Waterloo Region. Whether you need one-on-one sessions to talk about issues affecting you or family sessions to resolve conflict at home, Midtown is here to help. 
 
+Midtown helps clients face problems and move forward. Together we can build something new, respecting what is working well and changing what is not. Schedule your initial consultation [now](/contact/#booknow). See below for Midtown's [rates](/services/individuals/#consult).
+
+### . {#stress}
 <div class="service-item">
 <div class="service-item-title">
 <img src="/assets/images/rainy-window.jpg" alt="">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Depression, Anxiety & Stress {#stress}
+### Depression, Anxiety & Stress 
 
 Depression, Anxiety and Stress are powerful emotions. If they’re causing you discomfort, impeding joy and limiting personal and professional effectiveness, we'll help lift that dark cloud so you can find your sunshine. [book now](/contact/#booknow)
 
 </div>
 </div>
 
+### . {#relationships}
 <div class="service-item">
 <div class="service-item-title">
 <img src="/assets/images/two-on-couch.jpg" alt="">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Family, Parenting & Social Relationships {#relationships}
+### Family, Parenting & Social Relationships 
 
 Does your relationship lack communication, empathy or cooperation? Is it causing sadness, resentment or distress? We'll help you establish mutual goals, pinpoint patterns and improve connectivity. [book now](/contact/#booknow)
 
 </div>
 </div>
 
+### . {#wellness}
 <div class="service-item">
 <div class="service-item-title">
 <img src="/assets/images/man-on-street.jpg" alt="">
 </div>
 <div class="service-item-description" markdown="1">
 
-### Personal Wellness & Efficacy {#wellness}
+### Personal Wellness & Efficacy
 
 If you’re keen to boost your mental health and personal effectiveness, CONGRATULATIONS, you’re embarking on a significant journey. We'll help you set meaningful goals and create a path to confidence and effectiveness. [book now](/contact/#booknow)
 
@@ -60,7 +65,7 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 * This is a no obligation, confidential call
 * [Click here for the next available dates](/contact/#booknow)
 
-No Charge. 
+No Charge
 {: .price}
 
 </div>
@@ -70,7 +75,7 @@ No Charge.
 * Assess your needs and circumstances
 * Receive treatment recommendations
 * Develop a treatment plan with your therapist
-* There's no wait list. [book now](/contact/#booknow) 
+* There's no wait list; you're invited to book [now](/contact/#booknow)
 
 $165* (85 minutes) 
 {: .price}

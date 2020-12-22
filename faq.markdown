@@ -15,7 +15,7 @@ image: "/assets/images/two-hands.jpg"
  - [How do I know when I should get help?](#when)
  - [What’s wellness, psychosocial health, psychological health, mental health, mental illness and mental/psychological disorders?](#definitions)
 
-Do you have a different question? Please [email](mailto:info@midtowncounselling.ca) or [call us](tel:2263133335).
+Do you have a different question? Please [email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) us.
 
 ## What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy? {#psychotherapy}
 {: class="clear"}
@@ -38,7 +38,7 @@ Midtown Counselling requires that all new clients first participate in an [Initi
 ## How do people pay for treatment? {#payment}
 Midtown Counselling prays for the day when public healthcare will place greater emphasis on psychological wellbeing. Currently, OHIP covered therapy programs exist, however, these are few and far between. Please speak to your doctor to know your options and to get a referral.
 
-Until that day, Midtown Counselling operates as a private clinic, accepting clients on a [fee-per-service basis ](/services/individuals/#consult). Some clients pay out-of-pocket and some have benefit coverage that reimburses them for some or all of the fees paid.
+Until that day, Midtown Counselling operates as a private clinic, accepting [individual](/services/individuals/#consult), [family](/services/individuals/#consult) and [MVA](/services/mva) clients on a fee-per-service basis. Some clients pay out-of-pocket and some have benefit coverage that reimburses them for some or all of the fees paid. Midtown's [business and organizational partnerships](/services/businesses/#preferred) allow for preferred-rates.
 
 For those who cannot afford private fees, our counsellors would be happy to talk through your options in the community. You’re also invited to call Here 24/7, our Region’s [Mental Health and Addictions Number](https://here247.ca/).
 
@@ -61,4 +61,4 @@ These terms are often used interchangeably, although mean slightly different thi
 
 *Midtown Counselling helps people with wellness concerns related to their mental health and other psycho-social factors. A diagnosis is not required, although we recommend you discuss symptoms with your doctor as he/she is your quarterback of public healthcare. Of course, what you share with your doctor is entirely up to you.*
 
-Do you have a different question? Please [email](mailto:info@midtowncounselling.ca) or [call us](tel:2263133335).
+Do you have a different question? [Email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) us.
