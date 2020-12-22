@@ -10,10 +10,9 @@ Midtown Counselling offers in-person and online therapy for individuals and fami
 
 Midtown helps clients face problems and move forward. Together we can build something new, respecting what is working well and changing what is not. Schedule your initial consultation [now](/contact/#booknow). See below for Midtown's [rates](/services/individuals/#consult).
 
-### . {#stress}
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/rainy-window.jpg" alt="">
+<img src="/assets/images/rainy-window.jpg" alt="" id="stress">
 </div>
 <div class="service-item-description" markdown="1">
 
@@ -24,10 +23,9 @@ Depression, Anxiety and Stress are powerful emotions. If they’re causing you d
 </div>
 </div>
 
-### . {#relationships}
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/two-on-couch.jpg" alt="">
+<img src="/assets/images/two-on-couch.jpg" alt="" id="relationships">
 </div>
 <div class="service-item-description" markdown="1">
 
@@ -38,10 +36,9 @@ Does your relationship lack communication, empathy or cooperation? Is it causing
 </div>
 </div>
 
-### . {#wellness}
 <div class="service-item">
 <div class="service-item-title">
-<img src="/assets/images/man-on-street.jpg" alt="">
+<img src="/assets/images/man-on-street.jpg" alt="" id="wellness">
 </div>
 <div class="service-item-description" markdown="1">
 
