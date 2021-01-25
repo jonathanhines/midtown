@@ -23,11 +23,17 @@ Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with lo
 
 Hello! My name is Shelly. 
 
-I’m a **[Registered Social Worker and Psychotherapist with the Ontario College of Social Workers](https://www.ocswssw.org/)**. I have extensive training in complex psychological health & wellness, having worked mostly in specialized, hospital-based mental health clinics for adults, young-adults and families. My journey has since expanded to include healthcare leadership support, burnout recovery and community engagement. In short, I’m an empathetic listener, strategic coach, systems thinker and community organizer.
+I’m an empathetic listener, strategic coach, systems thinker and community organizer. I’m also a **[Registered Social Worker and Psychotherapist with the Ontario College of Social Workers](https://www.ocswssw.org/)**. I have extensive training in complex psychological health & wellness, having worked mostly in specialized, hospital-based mental health clinics for adults, young-adults and families. My journey has since expanded to include healthcare leadership support, burnout recovery and community engagement.
 
 I am a **Cognitive Behavioural Therapist (CBT)**, and integrate techniques from **Mindfulness Therapy, Dialectical Behavioural Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma informed care**. I earned my Bachelors of Art & Science from McMaster University, my Masters in Social Work from Wilfred Laurier University for which I received Social Science and Humanities Research Council, SSHRC, recognition, and have extensive postgraduate training and clinical experience in community and hospital treatment. 
 
-Lastly, I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. By God’s grace and under the care of medical providers, friends and family, I recovered... slowly. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter. Is there something else you'd like to know about me? [Just ask](mailto:shelly@midtowncounselling.ca).
+There's more to me, of course. I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. My journey back to health was long and tedious, involving medical providers, family, friends, prayer and patience. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter, sometimes with a kid in tow, sometimes on my own.
+
+I have a supportive partner and a cool kid. 
+
+I've found Covid personally exhausting and can't wait for this to be over. 
+
+Is there something else you'd like to know about me? [Just ask](mailto:shelly@midtowncounselling.ca).
 
 ## About the Midtown Community
 

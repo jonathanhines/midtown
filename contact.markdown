@@ -14,7 +14,7 @@ image: "/assets/images/contact-header.jpg"
 
 **Monday to Friday, 7:30 am - 9:00 pm, by appointment**
 
-Call or text [(226) 313-3335](tel:2263133335)
+[(226) 313-3335](tel:2263133335)
 
 {: .contact-phone}
 
@@ -57,7 +57,7 @@ Motor Vehicle Accident Rehabilitation Services
 During Covid 19, most appointments are being provided by video or phone session. In person, in-home appointments are available on an as-needed basis
 </div>
 
-To book your Initial Phone Consultation, send us an [email](mailto:info@midtowncounselling.ca), [text or call](tel:2263133335) with your name, contact details and your choice of available consult times. 
+To book your Initial Phone Consultation, send us an [email](mailto:info@midtowncounselling.ca), [text or call](tel:2263133335) with your name, contact details and your choice of available consult times. If you choose to text and don't hear back within 1 business day, please call us as your SMS didn't go through.
 
 Before contacting us please review our [Privacy Statement](/privacy).
 
