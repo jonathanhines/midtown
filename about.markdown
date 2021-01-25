@@ -29,7 +29,9 @@ I am a **Cognitive Behavioural Therapist (CBT)**, and integrate techniques from 
 
 There's more to me, of course. I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. My journey back to health was long and tedious, involving medical providers, family, friends, prayer and patience. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter, sometimes with a kid in tow, sometimes on my own.
 
-I have a supportive partner and a cool kid. 
+I have a supportive partner. 
+
+I think my kid is cool. He'd agree!
 
 I've found Covid personally exhausting and can't wait for this to be over. 
 
