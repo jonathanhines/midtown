@@ -22,10 +22,4 @@ A brighter future is waiting for you and/or your business. If you or your staff 
             <div class="jump-link-text">Businesses and Organizations</div>
         </a>
     </div>
-    <div class="jump-link">
-        <a href="/services/mva">
-            <img src="/assets/images/sore.jpg" alt="">
-            <div class="jump-link-text">Motor Vehicle Accident Rehabilitation</div>
-        </a>
-    </div>
 </div>
