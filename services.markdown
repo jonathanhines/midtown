@@ -7,7 +7,7 @@ image: "/assets/images/hands-couch.jpg"
 ---
 Midtown Counselling offers a range of psychotherapy, counselling and social work services. Sessions are private and tailored to your needs. 
 
-A brighter future is waiting for you and/or your business. If you or your staff are stuck, we'll help you get unstuck. If you want to move forward, we're here to help you do that. If you're not sure what you need but know you need something, we're here for that too. We promise to listen carefully, respect your values, and keep your goals in focus. Your success is our number one goal. [Email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) to get started.
+A brighter future is waiting for you, your family or your business. If you, your family or your staff are stuck, we'll help you get unstuck. If you want to move forward, we're here to help you do that. If you're not sure what you need but know you need something, we're here for that too. We promise to listen carefully, respect your values, and keep your goals in focus. Your success is our number one goal. [Email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) to get started.
 
 <div class="image-jump-links">
     <div class="jump-link">

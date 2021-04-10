@@ -101,6 +101,7 @@ $165* (85 minutes)
 
 </div>
 </div>
+* [click here for Social Work / Counselling rates related to Motor Vehicle Accidents](/rehab/social-work)
 
 ---------------------------
 

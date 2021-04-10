@@ -1,9 +1,11 @@
 
 #- name: Home
 #  link: /
-- name: Counselling Services
+- name: Counselling
   link: /services/
   subpages:
+    - name: Counselling
+      link: /services/ 
     - name: Individuals and Families
       link: /services/individuals
     - name: Businesses and Organizations
@@ -11,13 +13,17 @@
 - name: Midtown Rehab
   link: /rehab/
   subpages:
+    - name: MVA Services
+      link: /rehab/
     - name: Occupational Therapy
       link: /rehab/occupational-therapy
     - name: Social Work
       link: /rehab/social-work
-- name: About Us
+- name: About
   link: /about/
   subpages:
+    - name: Midtown
+      link: /about/
     - name: Shelly
       link: /about/shelly
     - name: Celina
@@ -26,5 +32,5 @@
   link: /news/
 - name: FAQ
   link: /faq/
-- name: Contact Us
+- name: Contact
   link: /contact/

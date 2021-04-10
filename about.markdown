@@ -17,27 +17,33 @@ As for **CONNECTION**, psychotherapy gains rely heavily on strong client-therapi
 
 Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with local businesses, faith groups, and community services, we help neighbours attend to psychological health at individual AND communal levels.
 
-## About Shelly Pavlić {#shelly}
+## Shelly Pavlić, BASc MSW RSW {#shelly}
 
 <img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-left">
 
-Hello! My name is Shelly. 
+Shelly Pavlić is a Registered Social Worker and Psychotherapist. 
 
-I’m an empathetic listener, strategic coach, systems thinker and community organizer. I’m also a **[Registered Social Worker and Psychotherapist with the Ontario College of Social Workers](https://www.ocswssw.org/)**. I have extensive training in complex psychological health & wellness, having worked mostly in specialized, hospital-based mental health clinics for adults, young-adults and families. My journey has since expanded to include healthcare leadership support, burnout recovery and community engagement.
+She is an empathetic listener, strategic coach, systems planner and community organizer. She has extensive training in complex mental and physical health & wellness, and supports adults, kids, young-adults and families. Shelly is a strong advocate for psychological wellness, supporting this community through healthcare leadership consultations, burnout recovery training and community engagement activities.
 
-I am a **Cognitive Behavioural Therapist (CBT)**, and integrate techniques from **Mindfulness Therapy, Dialectical Behavioural Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma informed care**. I earned my Bachelors of Art & Science from McMaster University, my Masters in Social Work from Wilfred Laurier University for which I received Social Science and Humanities Research Council, SSHRC, recognition, and have extensive postgraduate training and clinical experience in community and hospital treatment. 
 
-There's more to me, of course. I’m an **outdoor enthusiast and I love to bike**. My biking addiction started in my 30s just as I was recovering from an illness that left me virtually bedridden for months and exhausted my endocrine system. My journey back to health was long and tedious, involving medical providers, family, friends, prayer and patience. During that time, I learned about the mind-body connection and also that weakness and dependence needn’t be feared. Biking reminds me of all that. You’ll find me cycling around Kitchener-Waterloo, spring, summer, fall and winter, sometimes with a kid in tow, sometimes on my own.
 
-I have a supportive partner. 
+[click here for more about Shelly](/about/shelly).
 
-I think my kid is cool. He'd agree!
 
-I've found Covid personally exhausting and can't wait for this to be over. 
 
-Is there something else you'd like to know about me? [Just ask](mailto:shelly@midtowncounselling.ca).
 
-## About the Midtown Community
+## Celina Grande, M.Sc., OT, OT(Reg.) Ont. {#celina}
+
+<img src="/assets/images/celina-1.jpg" alt="" class="image-float float-left">
+
+Celina Grande is a registered Occupational Therapist. 
+
+She is friendly, attentive and knowledgeable. She specializes in assessing and treating those injured in motor vehicle accidents (MVA). Celina works with adults, kids and families, and is very well connected with the local rehabilitation world.
+
+[click here for more about Celina](/about/celina).
+
+
+## The Midtown Community
 
 <img src="/assets/images/hiking.jpg" alt="" class="image-float float-right"> The Midtown Community is alive, well and growing. We have partnerships with several faith communities and local businesses for the purpose of mental health advocacy, education and capacity building. 
 

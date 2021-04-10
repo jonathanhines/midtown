@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
-description: "To book your Initial Phone Consultation, send us an email at info@midtowncounselling.ca or call or text 226-313-3335 with your name, contact details and your choice of available consult times."
+description: "To book your Initial Phone Consultation, send us an email at info@midtowncounselling.ca or info@midtownrehab, or call or text 226-313-3335 with your name, contact details and your choice of available consult times."
 image: "/assets/images/contact-header.jpg"
 ---
 <img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
@@ -20,6 +20,8 @@ image: "/assets/images/contact-header.jpg"
 
 [info@midtowncounselling.ca](mailto:info@midtowncounselling.ca)
 
+[info@midtownrehab.ca](mailto:info@midtownrehab.ca)
+
 90 Blucher St, Kitchener, ON N2H 5V1
 
 In-person Appointments (clinic)
@@ -29,7 +31,7 @@ In-person Appointments (clinic)
 - Online booking
 
 In-person Appointments (home)
-- (for clients requiring in-home care)
+- Available to clients requiring in-home care
 - Treatment from the comfort of your own home
 
 Virtual Appointments
@@ -38,12 +40,13 @@ Virtual Appointments
 - Easy to use, one-click video platforms
 
 Motor Vehicle Accident Rehabilitation Services
-- (for clients who have been in an accident)
-- in-clinic, in-home, online or phone support
-- MVA documentation (Assessments, Progress Report, HCAI)
-- Collaboration with your lawyer and other providers 
+- Available to clients who have been in an accident
+- In-clinic, In-home, Online or Phone support
+- MVA reporting (Assessments, Progress Reports, HCAI/FSRA/FSCO)
+- Collaboration with your lawyer and insurer
+- Coordination with members of your recovery team 
 
-(Click on the [relevant service](/services) for rate information)
+For rate information, please refer to the relevant service area: [Counselling](/services/individuals), [Business](/services/businesses) or [MVA](/rehab).
 
 </div>
 <div class="col">

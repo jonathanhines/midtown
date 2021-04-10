@@ -48,7 +48,7 @@ Midtown Counselling is part of our community. Our clinic is conveniently located
 Midtown Counselling specializes in
 - [Individual and Family Counselling ](/services/individuals)
 - [Businesses and Organizations ](/services/businesses)
-- [Motor Vehicle Accident Rehabilitation ](/services/mva)
+- [Motor Vehicle Accident Rehabilitation ](/rehab)
 
 </div>
 </div>
@@ -63,9 +63,9 @@ Midtown Counselling specializes in
 </div>
 <div class="callout-text-right" markdown="1">
 
-Shelly Pavlić is a Registered Social Worker and Psychotherapist,and has extensive training in complex psychological health & wellness. Shelly specializes in Cognitive Behavioural Therapist (CBT), and integrate techniques from Mindfulness Therapy, Dialectical Behavioural Therapy (DBT), MultiSystemic Therapy (MST), Attachment & Family Systems Therapies, and trauma-informed care.
+Shelly Pavlić and the Midtown Counselling team are experienced and caring health professionals, specializing in complex physical and mental health & wellness. They listen to their clients, meet them where they're at, and employ evidenced-based treatment techniques to help clients achieve their goals. 
 
-<div class="callout-link"><a href="/about/#shelly" class="link-button inverted">about Shelly</a></div>
+<div class="callout-link"><a href="/about/#shelly" class="link-button inverted">more about Shelly and the team</a></div>
 
 </div>
 </div>
