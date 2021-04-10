@@ -81,6 +81,8 @@ $desktop-nav-hover-grow: 8px;
               display: block;
               padding: $default-spacing;
               margin: 0;
+              white-space: nowrap;
+              min-width: 10em;
             }
           }
         }
