@@ -15,7 +15,7 @@ As for **SCIENCE**, the field of mental health has come a long way in understand
 
 As for **CONNECTION**, psychotherapy gains rely heavily on strong client-therapist connectivity. Our clinicians excel at tuning into your strengths, values and needs so you can be understood, inspired and empowered to move forward. Often, therapy also improves connection with key people in your life, be they your children, partner, parents, friends, colleagues or boss.
 
-Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with local businesses, faith groups, and community services, we help neighbours attend to psychological health at individual AND communal levels.
+Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with local businesses, faith groups and community services, we help neighbours attend to psychological health at individual AND communal levels.
 
 -------
 
