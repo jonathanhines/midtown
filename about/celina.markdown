@@ -3,11 +3,11 @@ layout: page
 title: About Celina Grande
 permalink: /about/celina/
 class: about
-description: "Faith is an important part of my life and as such, part of me and everything I do."
-image: "/assets/images/hands-couch.jpg"
+description: "Celina Grande is an experienced, skilled, caring Occupational Therapist"
+image: "/assets/images/celina3straight.jpg"
 ---
 
-<img src="/assets/images/celina-1.jpg" alt="" class="image-float float-right">
+<img src="/assets/images/celina3straight.jpg" alt="" class="image-float float-right">
 
 Hello! My name is Celina. 
 
