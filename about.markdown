@@ -48,7 +48,7 @@ _______
 
 ## The Midtown Community
 
-<img src="/assets/images/hiking.jpg" alt="" class="image-float float-left"> The Midtown Community is alive, well and growing. We have partnerships with several faith communities and local businesses for the purpose of mental health advocacy, education and capacity building. 
+<img src="/assets/images/hiking.jpg" alt="" class="image-float float-left"> The Midtown Community is alive, well and growing. We have partnerships with faith communities, hospitals and post-secondary institutions, and local businesses for the purpose of mental health advocacy, education and capacity building. 
 
 Collaborations include running community events, awareness initiatives leadership forums, and offering no-charge consultations to clergy and employers, and individual services to those in need.
 

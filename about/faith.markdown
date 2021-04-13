@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Faith
+title: About Faith, Shelly Pavlic
 permalink: /about/faith/
 class: about
 description: "Faith is an important part of my life and as such, part of me and everything I do."
@@ -8,6 +8,8 @@ image: "/assets/images/hands-couch.jpg"
 ---
 
 <img src="/assets/images/hands-couch.jpg" alt="" class="image-float float-right">
+
+by Shelly
 
 Faith is an important part of my life and as such, part of me and everything I do. 
 
