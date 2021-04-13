@@ -4,10 +4,10 @@ title: About Us
 permalink: /about/
 class: about
 description: "We combine the science of psycho-social health with the healing capacity of connection and the resourcefulness of communities."
-image: "/assets/images/hands-couch.jpg"
+image: "/assets/images/two-hands.jpg"
 ---
 
-<img src="/assets/images/hands-couch.jpg" alt="" class="image-float float-right">
+<img src="/assets/images/two-hands.jpg" alt="" class="image-float float-right">
 
 We combine the science of psycho-social health with the healing capacity of connection and the resourcefulness of communities.
 
@@ -17,24 +17,26 @@ As for **CONNECTION**, psychotherapy gains rely heavily on strong client-therapi
 
 Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with local businesses, faith groups, and community services, we help neighbours attend to psychological health at individual AND communal levels.
 
-## Shelly Pavlić, BASc MSW RSW {#shelly}
+-------
 
-<img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-left">
+<img src="/assets/images/shelly-1.jpg" alt="" style="max-width: 240px;" class="image-float float-left">
+
+### Shelly Pavlić, BASc MSW RSW {#shelly}
+
 
 Shelly Pavlić is a Registered Social Worker and Psychotherapist. 
 
 She is an empathetic listener, strategic coach, systems planner and community organizer. She has extensive training in complex mental and physical health & wellness, and supports adults, kids, young-adults and families. Shelly is a strong advocate for psychological wellness, supporting this community through healthcare leadership consultations, burnout recovery training and community engagement activities.
 
-
-
 [click here for more about Shelly](/about/shelly).
 
+-------
 
 
+<img src="/assets/images/celina2straight.jpg" alt="" style="max-width: 180px;" class="image-float float-right">
 
-## Celina Grande, M.Sc., OT, OT(Reg.) Ont. {#celina}
+### Celina Grande, M.Sc., OT, OT(Reg.) Ont. {#celina}
 
-<img src="/assets/images/celina-1.jpg" alt="" class="image-float float-left">
 
 Celina Grande is a registered Occupational Therapist. 
 
@@ -42,10 +44,11 @@ She is friendly, attentive and knowledgeable. She specializes in assessing and t
 
 [click here for more about Celina](/about/celina).
 
+_______
 
 ## The Midtown Community
 
-<img src="/assets/images/hiking.jpg" alt="" class="image-float float-right"> The Midtown Community is alive, well and growing. We have partnerships with several faith communities and local businesses for the purpose of mental health advocacy, education and capacity building. 
+<img src="/assets/images/hiking.jpg" alt="" class="image-float float-left"> The Midtown Community is alive, well and growing. We have partnerships with several faith communities and local businesses for the purpose of mental health advocacy, education and capacity building. 
 
 Collaborations include running community events, awareness initiatives leadership forums, and offering no-charge consultations to clergy and employers, and individual services to those in need.
 

@@ -3,11 +3,11 @@ layout: page
 title: About Shelly Pavlić
 permalink: /about/shelly/
 class: about
-description: "Faith is an important part of my life and as such, part of me and everything I do."
-image: "/assets/images/shelly-1.jpg"
+description: "Shelly Pavlic is director, social worker and psychotherapist at Midtown. She is passionate about mental health treatment and a kind and caring provider"
+image: "/assets/images/shelly2.jpg"
 ---
 
-<img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-right">
+<img src="/assets/images/shelly2.jpg" alt="" class="image-float float-right">
 
 Hello! My name is Shelly. 
 

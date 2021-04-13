@@ -3,7 +3,7 @@ layout: page
 title: Counselling Services
 permalink: /services/
 description: "Midtown Counselling offers a range of psychotherapy, counselling and social work services. Sessions are private and tailored to your needs."
-image: "/assets/images/hands-couch.jpg"
+image: "/assets/images/session2.jpg"
 ---
 Midtown Counselling offers a range of psychotherapy, counselling and social work services. Sessions are private and tailored to your needs. 
 
@@ -23,3 +23,5 @@ A brighter future is waiting for you, your family or your business. If you, your
         </a>
     </div>
 </div>
+
+* [click here for support services related to Motor Vehicle Accidents](/rehab)

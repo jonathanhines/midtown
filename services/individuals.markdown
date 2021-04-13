@@ -20,6 +20,7 @@ Midtown helps clients face problems and move forward. Together we can build some
 
 Depression, Anxiety and Stress are powerful emotions. If they’re causing you discomfort, impeding joy and limiting personal and professional effectiveness, we'll help lift that dark cloud so you can find your sunshine. [book now](/contact/#booknow)
 
+
 </div>
 </div>
 
@@ -48,6 +49,9 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 
 </div>
 </div>
+
+* [click here for support services related to Motor Vehicle Accidents](/rehab)
+
 
 ---------------------------------
 
