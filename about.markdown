@@ -19,9 +19,10 @@ Lastly, Midtown cares about **STRONG COMMUNITIES**. Through partnerships with lo
 
 -------
 
+<img src="/assets/images/shelly-1.jpg" alt="" style="max-width: 240px;" class="image-float float-left">
+
 ### Shelly Pavlić, BASc MSW RSW {#shelly}
 
-<img src="/assets/images/shelly-1.jpg" alt="" class="image-float float-left">
 
 Shelly Pavlić is a Registered Social Worker and Psychotherapist. 
 
@@ -32,10 +33,10 @@ She is an empathetic listener, strategic coach, systems planner and community or
 -------
 
 
+<img src="/assets/images/celina2straight.jpg" alt="" style="max-width: 180px;" class="image-float float-right">
 
 ### Celina Grande, M.Sc., OT, OT(Reg.) Ont. {#celina}
 
-<img src="/assets/images/celina2straight.jpg" alt="" class="image-float float-right">
 
 Celina Grande is a registered Occupational Therapist. 
 
