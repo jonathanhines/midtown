@@ -16,9 +16,10 @@ var thisDayOfWeek = today.getDay();
 var displayDateOptions = { weekday: 'long', month: 'short', day: 'numeric' };
 var displayDateLocale = "en-CA"
 var bookLinkText = "SMS";
-var bookLinkSMSBodyPrefix = "I'm interested in booking an appointment: ";
-var noAppointmentsFoundMessage = "No appointments available at this time."
-var noAppointmentsFoundMessageWithFilters = "No appointments available at this time for the filters you have selected."
+var bookLinkSMSBodyPrefix = "I'd like an initial consult: ";
+var noAppointmentsFoundMessage = "Please contact the clinic for availabilities.";
+var noAppointmentsFoundMessageWithFilters = "Sorry. That appointment is taken. Please choose a different time.";
+
 
 var filterDate = "";
 var filterTime = "";

@@ -18,4 +18,7 @@ For more info, contact Café Pyrus or Midtown Counselling, info@midtowncounselli
 This is a joint initiative of Café Pyrus, Midtown Counselling, and Sarah Pearson
 
 
-link 202008connects123
+<a href="https://drive.google.com/file/d/1nqdV4_DB9sQ8ZMRN5yNmZZRdvDdkZyLt/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/202008connects123.jpg">
+<span>Download Handout</span>
+</a>

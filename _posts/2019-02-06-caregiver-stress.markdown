@@ -9,4 +9,7 @@ custom_excerpt: "**A Round Table Workshop**, Chair: Shelly Pavlic, hosted by Mid
 
 **Mental Health & Caregiver Stress; Community Dinner Topic**, Speaker: Shelly Pavlic, hosted by Highland Baptist Church as part of their Community Dinner Talking Series. All are welcome. Free meal.
 
-link: 20190206caregiver
+<a href="https://drive.google.com/file/d/1mxrnu02ATd7XmmQ0tWVvt9MlNw0j3pCZ/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/20190206caregiver-1.jpg">
+<span>Download Handout</span>
+</a>

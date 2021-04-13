@@ -9,4 +9,7 @@ custom_excerpt: false
 
 **Transitions to Independence (TIP) Training Course**, Regional Trainers: Shelly Pavlic, Don Plant (Ray of Hope), Tim Varney (Lutherwood), Lisa Mulvihill and Carrie Parking (Waterloo Region District School Board), hosted by a joint service collaborative in Waterloo-Wellington and funded by the Ministry of Health & Long Term Care, Ministry of Children, Community & Social Services, Ministry of the Attorney General, Ministry of Education, Ministry of Colleges and Universities
 
-Link: 2014tip
+<a href="https://drive.google.com/file/d/1QPCIQiCI7niQjIio1HneGGYxYt4Fes9K/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/2014tip.jpg">
+<span>Download Handout</span>
+</a>

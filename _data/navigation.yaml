@@ -1,20 +1,36 @@
 
 #- name: Home
 #  link: /
-- name: Services
+- name: Counselling
   link: /services/
   subpages:
-    - name: Individuals/Families
+    - name: Counselling
+      link: /services/ 
+    - name: Individuals and Families
       link: /services/individuals
-    - name: Businesses/Organizations
+    - name: Businesses and Organizations
       link: /services/businesses
-    - name: Motor Vehicle Accidents (MVA)
-      link: /services/mva  
-- name: About Us
+- name: Midtown Rehab
+  link: /rehab/
+  subpages:
+    - name: MVA Services
+      link: /rehab/
+    - name: Occupational Therapy
+      link: /rehab/occupational-therapy
+    - name: Social Work
+      link: /rehab/social-work
+- name: About
   link: /about/
+  subpages:
+    - name: Midtown
+      link: /about/
+    - name: Shelly
+      link: /about/shelly
+    - name: Celina
+      link: /about/celina
 - name: News
   link: /news/
 - name: FAQ
   link: /faq/
-- name: Contact Us
+- name: Contact
   link: /contact/

@@ -8,4 +8,8 @@ custom_excerpt: false
 ---
 
 **ADHD in Youth, Workshop**, Speaker: Shelly Pavlic, jointly hosted by Langs Farm, Family & Children's Services of Kitchener-Waterloo and The United Way of Waterloo Region, open to parents and caregivers within the area. Registration required, RSVP to Family and Children's Services.
-link: 200904adhddifficultteens
+
+<a href="https://drive.google.com/file/d/15aeMx4ZcRy1wXPRKflAtmCeEoGdH__XU/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/200904adhddifficultteens.jpg">
+<span>Download Handout</span>
+</a>

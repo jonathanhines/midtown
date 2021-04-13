@@ -2,6 +2,8 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
+description: "Midtown Counselling privacy policy."
+image: "/assets/images/hands-couch.jpg"
 ---
 
 Midtown Counselling takes several measures to protect people’s privacy and confidentiality.
@@ -12,7 +14,7 @@ We only obtain personal information from you, such as your name, phone number or
 
  As the security of electronic forms is never fully guaranteed, you are advised to find alternate and secure means of sharing information of a personal and/or sensitive nature instead of sending it through email, text or online forums.
 
-We regularly review our information-handling practices. Please [contact us >](/contact) if you have any questions or comments in this regard.
+We regularly review our information-handling practices. Please [contact us ](/contact) if you have any questions or comments in this regard.
 
 <hr class="content-divider">
 
