@@ -10,6 +10,7 @@ image: "/assets/images/session.jpg"
 <img src="/assets/images/session.jpg" alt="" class="image-float float-right hide-mobile">
 
  - [What’s Psychotherapy and Social Work and how do these terms relate to Counselling and Therapy?](#psychotherapy)
+ - [What’s Occupational Therapy and how can an O.T. contribute to my rehabilitation?](#occupational)
  - [How do I find a good therapist](#quality)
  - [How do people pay for treatment?](#payment)
  - [How do I know when I should get help?](#when)
@@ -28,12 +29,21 @@ Do you have a different question? Please [email](mailto:info@midtowncounselling.
 
 *[Midtown Counselling’s clinicians](/about/) are psychotherapists and social workers with master’s degree education and extensive professional development credits and field experience.*
 
+## What’s Occupational Therapy and how does an O.T. contribute to my rehabilitation? {#occupational}
+{: class="clear"}
+
+**Occupational Therapy** helps to solve the problems that interfere with a person’s ability to do the things that are important to them – everyday things like taking care of themselves and others, being productive, engaging in leisure activities. They employ specialized tools to help the client and the entire treatment team better understand the client's needs and circumstances. They then make informed recommendations, and then help their clients access the needed resources, whether that be education, encouragement, tools or funding. 
+
+Individuals suffering complex injuries during a motor vehicle accident (MVA) are often referred to an O.T. It's usually the O.T.'s job to do the initial big-picture assessment as well as to keep an eye on the whole treatment situation, help with referrals, equipment and know-client, and ensure nothing gets missed. Occupational therapists are licenced through the [Ontario College of Occupational Therapists of Ontario](https://coto.org/), and often have extensive training and experience in particular fields suited to their work.
+
+*[Midtown Rehab’s Occupational Therapists](/about/) are master’s degree trained with extensive professional development credits and field experience.*
+
 ## How do I find a good therapist? {#quality}
-The quality of your connection with your therapist is of utmost importance to your experience and chances of success in counselling. However, there is no such thing as a “good” therapist. Instead, you should look for someone with the qualifications, skills and personality that help you feel heard and respected, can attend to the specific complexities of your circumstances, and who partner well with you toward accomplishing your goals.
+The quality of your connection with your therapist is of utmost importance to your experience and chances of success in treatment. However, there is no such thing as a “good” therapist. Instead, you should look for someone with the qualifications, skills and personality that help you feel heard and respected, can attend to the specific complexities of your circumstances, and who partner well with you toward accomplishing your goals.
 
 To find a therapist that ‘fits’ you, do your research – ask around, read their [bio on Psychology Today](https://www.psychologytoday.com/ca/therapists/midtown-counselling-shelly-pavlic-kitchener-on/463230), and ask to speak to them by phone before making any commitments, tell them your situation and see how you feel about their response.
 
-Midtown Counselling requires that all new clients first participate in an [Initial Phone Consultation](/services/individuals/#consult). This call comes at no charge. Its purpose is to allow for proper screening of the therapist by the clients and vice versa. It’s important that both parties are comfortable working together toward the client’s goals. The majority of Midtown’s clientele are received via personal referrals.
+Midtown Counselling and Midtown Rehab require that all new clients first participate in an [Initial Phone Consultation](/services/individuals/#consult). This call comes at no charge. Its purpose is to allow for proper screening of the therapist by the clients and vice versa. It’s important that both parties are comfortable working together toward the client’s goals. The majority of Midtown’s clientele are received via personal referrals.
 
 ## How do people pay for treatment? {#payment}
 Midtown Counselling prays for the day when public healthcare will place greater emphasis on psychological wellbeing. Currently, OHIP covered therapy programs exist, however, these are few and far between. Please speak to your doctor to know your options and to get a referral.

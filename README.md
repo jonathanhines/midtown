@@ -24,10 +24,12 @@ ctrl+c to close the local runner.
 
 Appointment Spreadsheet - Google Shared Documents
 
-Thumbnails. Screen shot PDF to create jpg, upload to Git midtown folder. 
+Thumbnails. Screen shot PDF to create jpg, upload to Git midtown folder, assets. 
 Thumbnails: 200px wide, jpg compression 50, aim for below 20kb
 Medium Images: 600px wide, jpg compression 50 aim for below 100kb
 Large and fullwidth images: 1200 px wide aim for below 200kb
+
+Shelly's note: To compress jpg, go to file explorer, use send to, mail recipient, select the smallest size, check the size (s/b less than 100kb), copy the created document from the email. Or, open in MS Paint, resize, change pixels to 200 wide for thumbnails
 
 
 Attachments. Link to doc in shared google drive. must be a publicly shared folder.
