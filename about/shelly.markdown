@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Shelly Pavlić
+title: About Shelly Pavlić, BASc, MSW, RSW
 permalink: /about/shelly/
 class: about
 description: "Shelly Pavlic is director, social worker and psychotherapist at Midtown. She is passionate about mental health treatment and a kind and caring provider"

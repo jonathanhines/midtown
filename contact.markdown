@@ -10,17 +10,18 @@ image: "/assets/images/contact-header.jpg"
 <div class="row">
 <div class="col contact-info" markdown="1">
 
-## Midtown Counselling {#contactinfo}
+## Midtown Counselling / Midtown Rehab {#contactinfo}
+
+### [info@midtowncounselling.ca](mailto:info@midtowncounselling.ca)
+
+### [info@midtownrehab.ca](mailto:info@midtownrehab.ca)
+
+### [(226) 313-3335](tel:2263133335)
 
 **Monday to Friday, 7:30 am - 9:00 pm, by appointment**
 
-[(226) 313-3335](tel:2263133335)
-
 {: .contact-phone}
 
-[info@midtowncounselling.ca](mailto:info@midtowncounselling.ca)
-
-[info@midtownrehab.ca](mailto:info@midtownrehab.ca)
 
 90 Blucher St, Kitchener, ON N2H 5V1
 

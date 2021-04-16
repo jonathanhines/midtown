@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 permalink: /faq/
 class: faq
-description: "Frequently asked questions regarding Midtown Counselling"
+description: "Frequently asked questions regarding Midtown"
 image: "/assets/images/session.jpg"
 ---
 
@@ -27,7 +27,11 @@ Do you have a different question? Please [email](mailto:info@midtowncounselling.
 
 **Counselling** and **Therapy** are more generic terms referring to the practice of giving someone advice or helping someone resolve something. One does not need registration or special training or licencing to be a counsellor or therapist.
 
-*[Midtown Counselling’s clinicians](/about/) are psychotherapists and social workers with master’s degree education and extensive professional development credits and field experience.*
+*[Midtown's clinicians](/about/) are psychotherapists and social workers with master’s degree education and extensive professional development credits and field experience.*
+
+[click here for more about our Services for individuals, families and businesses](/services).
+
+[click here for more about Services for Motor Vehicle Accident Rehabilitation](/rehab/social-work).
 
 ## What’s Occupational Therapy and how does an O.T. contribute to my rehabilitation? {#occupational}
 {: class="clear"}
@@ -36,19 +40,23 @@ Do you have a different question? Please [email](mailto:info@midtowncounselling.
 
 Individuals suffering complex injuries during a motor vehicle accident (MVA) are often referred to an O.T. It's usually the O.T.'s job to do the initial big-picture assessment as well as to keep an eye on the whole treatment situation, help with referrals, equipment and know-client, and ensure nothing gets missed. Occupational therapists are licenced through the [Ontario College of Occupational Therapists of Ontario](https://coto.org/), and often have extensive training and experience in particular fields suited to their work.
 
-*[Midtown Rehab’s Occupational Therapists](/about/) are master’s degree trained with extensive professional development credits and field experience.*
+*[Midtown’s Occupational Therapists](/about/) are master’s degree trained with extensive professional development credits and field experience.*
+
+[click here for more about our Occupational Therapy Services](/rehab/occupational-therapy).
 
 ## How do I find a good therapist? {#quality}
 The quality of your connection with your therapist is of utmost importance to your experience and chances of success in treatment. However, there is no such thing as a “good” therapist. Instead, you should look for someone with the qualifications, skills and personality that help you feel heard and respected, can attend to the specific complexities of your circumstances, and who partner well with you toward accomplishing your goals.
 
 To find a therapist that ‘fits’ you, do your research – ask around, read their [bio on Psychology Today](https://www.psychologytoday.com/ca/therapists/midtown-counselling-shelly-pavlic-kitchener-on/463230), and ask to speak to them by phone before making any commitments, tell them your situation and see how you feel about their response.
 
-Midtown Counselling and Midtown Rehab require that all new clients first participate in an [Initial Phone Consultation](/services/individuals/#consult). This call comes at no charge. Its purpose is to allow for proper screening of the therapist by the clients and vice versa. It’s important that both parties are comfortable working together toward the client’s goals. The majority of Midtown’s clientele are received via personal referrals.
+Midtown requires that all new clients first participate in an [Initial Phone Consultation](/services/individuals/#consult). This call comes at no charge. Its purpose is to allow for proper screening of the therapist by the clients and vice versa. It’s important that both parties are comfortable working together toward the client’s goals. The majority of Midtown’s clientele are received via personal referrals.
+
+[click here for more about us and our therapists](/about/).
 
 ## How do people pay for treatment? {#payment}
-Midtown Counselling prays for the day when public healthcare will place greater emphasis on psychological wellbeing. Currently, OHIP covered therapy programs exist, however, these are few and far between. Please speak to your doctor to know your options and to get a referral.
+Midtown prays for the day when public healthcare will place greater emphasis on psychological wellbeing. Currently, OHIP covered therapy programs exist, however, these are few and far between. Please speak to your doctor to know your options and to get a referral.
 
-Until that day, Midtown Counselling operates as a private clinic, accepting [individual](/services/individuals/#consult), [family](/services/individuals/#consult) and [MVA](/services/mva) clients on a fee-per-service basis. Some clients pay out-of-pocket and some have benefit coverage that reimburses them for some or all of the fees paid. Midtown's [business and organizational partnerships](/services/businesses/#preferred) allow for preferred-rates.
+Until that day, Midtown operates as a private clinic, accepting [individual](/services/individuals/#consult), [family](/services/individuals/#consult) and [MVA](/services/mva) clients on a fee-per-service basis. Some clients pay out-of-pocket and some have benefit coverage that reimburses them for some or all of the fees paid. Midtown's [business and organizational partnerships](/services/businesses/#preferred) allow for preferred-rates.
 
 For those who cannot afford private fees, our counsellors would be happy to talk through your options in the community. You’re also invited to call Here 24/7, our Region’s [Mental Health and Addictions Number](https://here247.ca/).
 
@@ -69,6 +77,6 @@ These terms are often used interchangeably, although mean slightly different thi
 
 **Mental Illness** and **Mental/Psychological Disorder** also mean the same thing. They refer to having symptoms that meet criteria for a recognized medical condition affecting moods and thoughts that alter behaviours to the extent that they cause significant emotional pain, distress or dysfunction. 
 
-*Midtown Counselling helps people with wellness concerns related to their mental health and other psycho-social factors. A diagnosis is not required, although we recommend you discuss symptoms with your doctor as he/she is your quarterback of public healthcare. Of course, what you share with your doctor is entirely up to you.*
+*Midtown helps people with wellness concerns related to their mental health and other psycho-social factors. A diagnosis is not required, although we recommend you discuss symptoms with your doctor as he/she is your quarterback of public healthcare. Of course, what you share with your doctor is entirely up to you.*
 
 Do you have a different question? [Email](mailto:info@midtowncounselling.ca) or [call](tel:2263133335) us.

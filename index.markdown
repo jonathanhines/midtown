@@ -33,7 +33,7 @@ Living with a dark, stormy cloud over your head is no way to live - even in Covi
 </div>
 <div class="callout-text-right" markdown="1">
 
-Midtown Counselling is part of our community. Our clinic is conveniently located between Downtown Kitchener and Uptown Waterloo and provides a comfortable and private setting for appointments.
+Midtown is part of our community. Our clinic is conveniently located between Downtown Kitchener and Uptown Waterloo and provides a comfortable and private setting for appointments.
 
 <div class="callout-link"><a href="/about" class="link-button inverted">about us</a></div>
 
@@ -63,7 +63,7 @@ Midtown Counselling specializes in
 </div>
 <div class="callout-text-right" markdown="1">
 
-Shelly Pavlić and the Midtown Counselling team are experienced and caring health professionals, specializing in complex physical and mental health & wellness. They listen to their clients, meet them where they're at, and employ evidenced-based treatment techniques to help clients achieve their goals. 
+Shelly Pavlić and the Midtown team are experienced and caring health professionals, specializing in complex physical and mental health & wellness. They listen to their clients, meet them where they're at, and employ evidenced-based treatment techniques to help clients achieve their goals. 
 
 <div class="callout-link"><a href="/about/#shelly" class="link-button inverted">more about Shelly and the team</a></div>
 

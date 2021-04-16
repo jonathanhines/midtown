@@ -61,7 +61,7 @@ window.addEventListener('load', function () {
             loadTable(data.feed.entry);
         } else {
             let errorNoticeContainer = document.getElementById(errorNoticeID);
-            errorNoticeContainer.textContent = "Error: Could not get available times. Try again later or contact Midtown Counselling directly.";
+            errorNoticeContainer.textContent = "Error: Could not get available times. Try again later or contact Midtown directly.";
         }
     };
     xhr.send();

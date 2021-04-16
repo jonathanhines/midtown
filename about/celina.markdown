@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Celina Grande
+title: About Celina Grande, MSc, OT, OT(Reg.) Ont
 permalink: /about/celina/
 class: about
 description: "Celina Grande is an experienced, skilled, caring Occupational Therapist"
@@ -18,3 +18,5 @@ My goal is to assist you in your recovery and eventual return to meaningful acti
 I earned my Masters in Occupational Therapy from McMaster University and have completed post – graduate continuing education in ergonomics, cognitive assessment and rehabilitation, concussion treatment, and pain management. 
 
 Personally, I am finding my way through life as a mother of a two year old boy. I enjoy the outdoors, exercising (though it’s been a challenge getting back into it), and spending time with my family. I have a supportive husband, who is also a chef and has inspired me to become a food connoisseur. I have found the pandemic challenging personally and professionally, but I hope better days are ahead. I look forward to someday traveling again. 
+
+Is there something else you’d like to know about me? [Just ask](mailto:celina@midtownrehab.ca).
