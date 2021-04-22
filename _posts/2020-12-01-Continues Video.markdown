@@ -7,4 +7,4 @@ custom_date: "Winter 2020"
 custom_excerpt: false
 ---
 
-**Midtown Counselling continues Video, Phone and In-Person sessions.** Services continue via video-conference (Doxy.Me), phone, and distanced outdoor in-person visits where safety can be accommodated (travel expenses apply). Our clinic's physical doors will re-open as soon as community health circumstances allow.
+**Midtown Counselling Services** continue via video-conference (Doxy.Me), phone, and distanced outdoor in-person visits where safety can be accommodated (travel expenses apply). Our clinic's physical doors will re-open as soon as community health circumstances allow.

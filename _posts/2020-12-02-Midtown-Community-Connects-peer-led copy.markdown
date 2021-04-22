@@ -4,7 +4,7 @@ title:  "Midtown Community Connects Continues as a Peer-led Group"
 date:   2020-12-02 00:08:00 -0400
 categories: news event
 custom_date: "Ongoing"
-custom_excerpt: "**Midtown Community Connects** Midtown counselling is proud to announce the continuation of this weekly public community group, newly under full peer-led direction"
+custom_excerpt: "**Midtown Counselling** is proud to announce the continuation of this weekly public community group, newly under full peer-led direction"
 description: "Midtown Community Connects: Midtown counselling is proud to announce the continuation of this weekly public community group, newly under full peer-led direction"
 image: "/assets/images/two-hands.jpg"
 ---
