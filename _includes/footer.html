@@ -2,7 +2,11 @@
   <div class="site-footer wrapper">
     <div class="footer-column column-1 footer-contact">
       <address>
-        <a href="mailto:info@midtowncounselling.ca">info@midtowncounselling.ca</a>
+        {%- if page.url contains "/rehab" -%}
+          <a href="mailto:info@midtownrehab.ca">info@midtownrehab.ca</a>
+        {% else %}
+          <a href="mailto:info@midtowncounselling.ca">info@midtowncounselling.ca</a>
+        {% endif %}
         <a href="tel:2263133335">(226) 313-3335</a>
         <a href="https://goo.gl/maps/4Y8x66Hsc8JhMAcy9">90 Blucher St, Kitchener, ON Canada</a>
       </address>

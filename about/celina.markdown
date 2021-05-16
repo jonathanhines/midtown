@@ -1,11 +1,13 @@
 ---
-layout: page
-title: About Celina Grande, MSc, OT, OT(Reg.) Ont
+layout: page-no-title
+title: About Celina Grande
 permalink: /about/celina/
 class: about
 description: "Celina Grande is an experienced, skilled, caring Occupational Therapist"
 image: "/assets/images/celina3straight.jpg"
 ---
+
+<h1 class="post-title">About Celina Grande<span class="credentials">, MSc, OT, OT(Reg.) Ont</span></h1>
 
 <img src="/assets/images/celina3straight.jpg" alt="" class="image-float float-right">
 
