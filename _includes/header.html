@@ -2,7 +2,11 @@
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><span class="sr-only">{{ site.title | escape }}</span>
-    {%- include logo.svg -%}
+    {%- if page.url contains "/rehab" -%}
+      {%- include mtr-logo.svg -%}
+    {% else %}
+      {%- include logo.svg -%}
+    {% endif %}
   </a>
 
   {%- if page_paths -%}
