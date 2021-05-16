@@ -183,6 +183,15 @@ ul.features {
         }
     }
     @include media-query($on-laptop) {
+        flex-wrap: wrap;
+        margin-right: 50px;
+        margin-left: 50px;
+        grid-gap: 60px 0;
+        li {
+            flex: 0 0 50%;
+        }
+    }
+    @include media-query($on-palm) {
         flex-direction: column;
         align-items: center;
         grid-gap: 30px;

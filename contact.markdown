@@ -12,18 +12,21 @@ image: "/assets/images/contact-header.jpg"
 
 ## Midtown Counselling / Midtown Rehab {#contactinfo}
 
-### [info@midtowncounselling.ca](mailto:info@midtowncounselling.ca)
+<div style="font-size: 1.2em; font-weight: bold;">
+    <p><a href="mailto:info@midtowncounselling.ca">
+        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-bike.svg" alt="Midtown Counselling logo">
+        info@midtowncounselling.ca
+    </a><br>
+    <a href="mailto:info@midtownrehab.ca">
+        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">
+        info@midtownrehab.ca
+    </a></p>
+    <p><a href="tel:2263133335">(226) 313-3335</a></p>
+    <p>**Monday to Friday, 7:30 am - 9:00 pm, by appointment**</p>
+    <p>90 Blucher St, Kitchener, ON N2H 5V1</p>
+</div>
 
-### [info@midtownrehab.ca](mailto:info@midtownrehab.ca)
-
-### [(226) 313-3335](tel:2263133335)
-
-**Monday to Friday, 7:30 am - 9:00 pm, by appointment**
-
-{: .contact-phone}
-
-
-90 Blucher St, Kitchener, ON N2H 5V1
+-----
 
 In-person Appointments (clinic)
 - Conveniently located in Kitchener-Waterloo's core
