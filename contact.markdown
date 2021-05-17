@@ -5,8 +5,6 @@ permalink: /contact/
 description: "To book your Initial Phone Consultation, send us an email at info@midtowncounselling.ca or info@midtownrehab, or call or text 226-313-3335 with your name, contact details and your choice of available consult times."
 image: "/assets/images/contact-header.jpg"
 ---
-<img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
-
 <div class="row">
 <div class="col contact-info" markdown="1">
 
@@ -14,12 +12,10 @@ image: "/assets/images/contact-header.jpg"
 
 <div style="font-size: 1.2em; font-weight: bold;">
     <p><a href="mailto:info@midtowncounselling.ca">
-        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-bike.svg" alt="Midtown Counselling logo">
         info@midtowncounselling.ca
     </a><br>
     <a href="mailto:info@midtownrehab.ca">
-        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">
-        info@midtownrehab.ca
+        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">&nbsp;info@midtownrehab.ca
     </a></p>
     <p><a href="tel:2263133335">(226) 313-3335</a></p>
     <p>**Monday to Friday, 7:30 am - 9:00 pm, by appointment**</p>
@@ -55,6 +51,8 @@ For rate information, please refer to the relevant service area: [Counselling](/
 </div>
 <div class="col">
     {% include partials/map.html %}
+
+    <img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
 </div>
 </div>
 

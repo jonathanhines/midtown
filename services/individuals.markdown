@@ -50,7 +50,7 @@ If you’re keen to boost your mental health and personal effectiveness, CONGRAT
 </div>
 </div>
 
-[<img style="max-height: 1em;" src="/assets/images/icons/link-car.svg" alt="Midtown Counselling logo"> click here for support services related to Motor Vehicle Accidents](/rehab)
+[<img style="max-height: 1em; margin-bottom: 0.3em" src="/assets/images/icons/link-car.svg" alt="Midtown Counselling logo">&nbsp;click here for support services related to Motor Vehicle Accidents](/rehab)
 
 
 ---------------------------------
@@ -105,7 +105,7 @@ $165* (85 minutes)
 
 </div>
 </div>
-[<img style="max-height: 1em;" src="/assets/images/icons/link-car.svg" alt="Midtown Counselling logo"> click here for Social Work / Counselling rates related to Motor Vehicle Accidents](/rehab/social-work)
+[<img style="max-height: 1em; margin-bottom: 0.3em" src="/assets/images/icons/link-car.svg" alt="Midtown Counselling logo">&nbsp;click here for Social Work / Counselling rates related to Motor Vehicle Accidents](/rehab/social-work)
 
 ---------------------------
 

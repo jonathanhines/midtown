@@ -14,7 +14,7 @@ image: "/assets/images/two-hands.jpg"
     <li><a href="/services/individuals/#stress"><img src="/assets/images/site/homepage-icons-depression.svg" alt="Depression, Anxiety, Stress"><span>Depression, Anxiety, Stress</span></a></li>
     <li><a href="/services/individuals/#relationships"><img src="/assets/images/site/homepage-icons-family.svg" alt="Family, Relationships"><span>Family, Relationships</span></a></li>
     <li><a href="/services/individuals/#wellness"><img src="/assets/images/site/homepage-icons-wellness.svg" alt="Personal Wellness"><span>Personal Wellness</span></a></li>
-    <li><a href="/rehab"><img src="/assets/images/site/homepage-icons-mva.svg" alt="Motor Vehicle Accident Rehab"><span>Motor Vehicle Accident Rehab</span></a></li>
+    <li><a href="/rehab"><img src="/assets/images/site/homepage-icons-mva.svg" alt="Motor Vehicle Accidents"><span>Motor Vehicle Accidents</span></a></li>
 </ul>
 </div>
 
