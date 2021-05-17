@@ -15,7 +15,7 @@ image: "/assets/images/contact-header.jpg"
         info@midtowncounselling.ca
     </a><br>
     <a href="mailto:info@midtownrehab.ca">
-        <img style="max-height: 1em; margin-bottom: 4px;" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">&nbsp;info@midtownrehab.ca
+        <img class="link-icon" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">&nbsp;info@midtownrehab.ca
     </a></p>
     <p><a href="tel:2263133335">(226) 313-3335</a></p>
     <p>**Monday to Friday, 7:30 am - 9:00 pm, by appointment**</p>
