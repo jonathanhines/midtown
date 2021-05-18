@@ -24,4 +24,4 @@ A brighter future is waiting for you, your family or your business. If you, your
     </div>
 </div>
 
-* [click here for support services related to Motor Vehicle Accidents](/rehab)
+[<img class="link-icon" src="/assets/images/icons/link-car.svg" alt="Midtown Counselling logo">&nbsp;click here for support services related to Motor Vehicle Accidents](/rehab)
