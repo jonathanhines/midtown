@@ -1,11 +1,13 @@
 ---
-layout: page
-title: About Shelly Pavlić, BASc, MSW, RSW
+layout: page-no-title
+title: About Shelly Pavlić
 permalink: /about/shelly/
 class: about
 description: "Shelly Pavlic is director, social worker and psychotherapist at Midtown. She is passionate about mental health treatment and a kind and caring provider"
 image: "/assets/images/shelly2.jpg"
 ---
+
+<h1 class="post-title">About Shelly Pavlić<span class="credentials">, BASc, MSW, RSW</span></h1>
 
 <img src="/assets/images/shelly2.jpg" alt="" class="image-float float-right">
 

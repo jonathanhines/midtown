@@ -5,25 +5,24 @@ permalink: /contact/
 description: "To book your Initial Phone Consultation, send us an email at info@midtowncounselling.ca or info@midtownrehab, or call or text 226-313-3335 with your name, contact details and your choice of available consult times."
 image: "/assets/images/contact-header.jpg"
 ---
-<img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
-
 <div class="row">
 <div class="col contact-info" markdown="1">
 
 ## Midtown Counselling / Midtown Rehab {#contactinfo}
 
-### [info@midtowncounselling.ca](mailto:info@midtowncounselling.ca)
+<div style="font-size: 1.2em; font-weight: bold;">
+    <p><a href="mailto:info@midtowncounselling.ca">
+        info@midtowncounselling.ca
+    </a><br>
+    <a href="mailto:info@midtownrehab.ca">
+        <img class="link-icon" src="/assets/images/icons/link-car.svg" alt="Midtown Rehab logo">&nbsp;info@midtownrehab.ca
+    </a></p>
+    <p><a href="tel:2263133335">(226) 313-3335</a></p>
+    <p>**Monday to Friday, 7:30 am - 9:00 pm, by appointment**</p>
+    <p>90 Blucher St, Kitchener, ON N2H 5V1</p>
+</div>
 
-### [info@midtownrehab.ca](mailto:info@midtownrehab.ca)
-
-### [(226) 313-3335](tel:2263133335)
-
-**Monday to Friday, 7:30 am - 9:00 pm, by appointment**
-
-{: .contact-phone}
-
-
-90 Blucher St, Kitchener, ON N2H 5V1
+-----
 
 In-person Appointments (clinic)
 - Conveniently located in Kitchener-Waterloo's core
@@ -52,6 +51,8 @@ For rate information, please refer to the relevant service area: [Counselling](/
 </div>
 <div class="col">
     {% include partials/map.html %}
+
+    <img class="contact-header" src="/assets/images/contact-header.jpg" alt="images of the midtown counselling building">
 </div>
 </div>
 

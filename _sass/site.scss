@@ -183,6 +183,15 @@ ul.features {
         }
     }
     @include media-query($on-laptop) {
+        flex-wrap: wrap;
+        margin-right: 50px;
+        margin-left: 50px;
+        grid-gap: 60px 0;
+        li {
+            flex: 0 0 50%;
+        }
+    }
+    @include media-query($on-palm) {
         flex-direction: column;
         align-items: center;
         grid-gap: 30px;
@@ -719,6 +728,7 @@ footer {
 }
 
 .contact-header {
+    margin-top: $large-spacing;
     margin-bottom: $large-spacing;
     max-width: 100%;
 }
@@ -939,4 +949,14 @@ a.download-thumbnail {
         margin-top: $default-spacing;
         text-align: center;
     }
+}
+
+.credentials {
+    font-size: 0.6em;
+}
+
+.link-icon {
+    max-height: 1em;
+    max-width: 1.7266em;
+    margin-bottom: 0.3em;
 }
