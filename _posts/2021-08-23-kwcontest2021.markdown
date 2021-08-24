@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "My Summer In K-W Arts Contest"
+date:   2021-08-23 00:08:00 -0400
+categories: news event
+custom_date: "August 23, 2021"
+custom_excerpt: "Midtown Counselling invites you to: **MY SUMMER IN K-W** a community arts contest for everyone!"
+description: "Midtown Counselling invites you to:
+MY SUMMER IN K-W
+a community arts contest for everyone!
+You’re invited to print or pick up an entry form, share about your summer using an art form of your choice, and enter to win yummy prizes from your local favourites: Four All Ice Cream, Café Pyrus, ForeQuarter and Dana Shortt.
+Contest closes September 12th, 2021. See entry form for details."
+image: "/assets/images/2021-08-KW-Arts-Contest.jpg"
+permalink: "/kwcontest2021"
+---
+
+Midtown Counselling invites you to:
+
+## MY SUMMER IN K-W
+
+a community arts contest for everyone!
+
+You’re invited to print or pick up an entry form, share about your summer using an art form of your choice, and enter to win yummy prizes from your local favourites: Four All Ice Cream, Café Pyrus, ForeQuarter and Dana Shortt.
+
+Contest closes September 12th, 2021.
+
+See entry form for details.
+
+<a href="https://drive.google.com/file/d/1OR0V83yd43DUFKByHBHPVEh_TIlWJW_K/view?usp=sharing" class="download-thumbnail">
+<img src="/assets/images/thumbnails/2021-08-KW-Arts-Contest.jpg">
+<span>Download Entry Form</span>
+</a>

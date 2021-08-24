@@ -12,7 +12,7 @@ We look forward to seeing this pandemic behind us.
 Thank you for being there. 
 Take care of yourself.
 Find us on Facebook."
-image: "/assets/images/2021-04-walks-cancelled.pdf"
+image: "/assets/images/2021-04-walks-cancelled.jpg"
 ---
 
 With a heavy heart for all those experiencing isolation,
